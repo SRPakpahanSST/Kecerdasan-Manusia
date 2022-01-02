@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="G_$E$BRO)xN:O+??N9@W" x="-263" y="-190">
+    <mutation component_type="Form" is_generic="false" instance_name="intro_SQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">intro_SQ</field>
+    <statement name="DO">
+      <block type="component_set_get" id="97;8?~.sCd3l:c1yJ}Aj">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="0D-^;`]~.,VEgH.`7RfR">
+            <field name="TEXT">Pada bagian ini akan diberikan test untuk menentukan tingkat kecerdasan Spirituil (SQ). Test ini terdiri dari 28 pertanyaan mengenai kepercayaan diri, pertumbuhan kepercayaan dan nilai-nilai SQ dan keyakinan. Pada setiap pertanyaan diberikan uraian pertanyaan untuk dijawab dan dikerjakan dengan secepat mungkin dan benar dalam waktu 1 jam tanpa melihat lembaran jawaban, berapa jumlah soal yang dapat Anda jawab dalam waktu 1 jam itulah kemampuan Anda. Setiap pertanyaan diberi pilihan jawaban a, b, c atau d yang harus dipilih salah satu darinya yang menurut pikiran atau pendapat Anda itu sebagai jawaban yang benar. Setelah selesai memberi jawaban terhadap uraian pertanyaan yang diberikan, cocokkan jawaban Anda dengan lembaran jawaban yang diberikan, jumlahkanlah skor Anda sesuai jawaban yang benar dengan cara mengalikan banyaknya jawaban yang benar dengan 5 dan jika salah dikalikan dengan 0, selanjutnya itulah nilai kecerdasan SQ Anda. Kemudian gabungkan skor SQ Anda dengan skor kecerdasan lainnya untuk mendapatkan nilai kemampuan hidup Anda.</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="fO5gdCWXG?BZ^qh@HGTx" x="-258" y="-80">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="+Vu:F4-./|V(Nu^5Ctbu">
+        <value name="SCREEN">
+          <block type="text" id="QZ#g_n.axjLSD!d?,D8]">
+            <field name="TEXT">Test_SQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

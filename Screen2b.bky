@@ -1,0 +1,127 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="kqi2}{(2VZf(6Mq`ro3t" x="-918" y="-895">
+    <mutation component_type="Form" is_generic="false" instance_name="Screen2b" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Screen2b</field>
+    <statement name="DO">
+      <block type="component_set_get" id="V@ArugJXJduo]aVNCc]-">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Hasil_Score_IQ_Anda"></mutation>
+        <field name="COMPONENT_SELECTOR">Hasil_Score_IQ_Anda</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="!qSTJunUu7]P@twwaEXn">
+            <field name="TEXT">Hasil_Score_IQ_Anda</field>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="~0mW4pmO]uuo:gJ[goS,">
+            <mutation component_type="TextBox" set_or_get="set" property_name="Text" is_generic="false" instance_name="iq"></mutation>
+            <field name="COMPONENT_SELECTOR">iq</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="controls_getStartValue" id=":P?oGO8k|je+Eg|l+)H]"></block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="4QVa(HF]VN,])e$p7QQ`" x="-913" y="-783">
+    <mutation component_type="Button" is_generic="false" instance_name="Button4" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button4</field>
+    <statement name="DO">
+      <block type="component_set_get" id="c[9RwUXxT[6L:0,][#P~">
+        <mutation component_type="Web" set_or_get="set" property_name="Url" is_generic="false" instance_name="Web1"></mutation>
+        <field name="COMPONENT_SELECTOR">Web1</field>
+        <field name="PROP">Url</field>
+        <value name="VALUE">
+          <block type="text" id="EaWI`g?@0vsjXZaT=mTU">
+            <field name="TEXT">https://script.google.com/macros/s/AKfycbyiXl-xyrlTU1uREwExias9NIYVgh5oO7wKAXBt9aXRjfxf_gTu/exec</field>
+          </block>
+        </value>
+        <next>
+          <block type="component_method" id="J-hcM!1297{Ez@x4pMjm">
+            <mutation component_type="Web" method_name="PostText" is_generic="false" instance_name="Web1"></mutation>
+            <field name="COMPONENT_SELECTOR">Web1</field>
+            <value name="ARG0">
+              <block type="text_join" id="tSX~Rw0Agztpr?ZzlA$y">
+                <mutation items="2"></mutation>
+                <value name="ADD0">
+                  <block type="text" id="VDY.cGs}4p$E2|mjX:X3">
+                    <field name="TEXT">Hasil_Score_IQ_Anda=</field>
+                  </block>
+                </value>
+                <value name="ADD1">
+                  <block type="component_set_get" id="[qE8E#r:3n?Sk#C4o+je">
+                    <mutation component_type="TextBox" set_or_get="get" property_name="Text" is_generic="false" instance_name="iq"></mutation>
+                    <field name="COMPONENT_SELECTOR">iq</field>
+                    <field name="PROP">Text</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <next>
+              <block type="component_set_get" id="[A9i^ydd7kTsx%/Z%Qh|">
+                <mutation component_type="TextBox" set_or_get="set" property_name="Text" is_generic="false" instance_name="iq"></mutation>
+                <field name="COMPONENT_SELECTOR">iq</field>
+                <field name="PROP">Text</field>
+                <value name="VALUE">
+                  <block type="controls_getStartValue" id="9OH{^]QK^26X|Z:#^dN,"></block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="(qES-K=YN(%)VzKB;xwb" x="-920" y="-604">
+    <mutation component_type="Web" is_generic="false" instance_name="Web1" event_name="GotText"></mutation>
+    <field name="COMPONENT_SELECTOR">Web1</field>
+  </block>
+  <block type="global_declaration" id=",#B=Ss8|]*7BP-XBr,([" x="-667" y="-179">
+    <field name="NAME">name</field>
+    <value name="VALUE">
+      <block type="controls_getStartValue" id="oo*TsbPD#I$0.]cXIj.{"></block>
+    </value>
+  </block>
+  <block type="component_event" id="a{qau8cIrVj4%*fv~(*_" x="-668" y="-130">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id=":l[OCJo7M/Px%e-1ub;I">
+        <value name="SCREEN">
+          <block type="text" id="yF=,f,1aCJ@|)%rJP.j@">
+            <field name="TEXT">Kunci_Jawaban_IQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="WW=s8IhQ@vFopm/l|.g5" x="-670" y="-59">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="kl4Zr6zVs5*|r[Y.SNzx">
+        <value name="SCREEN">
+          <block type="text" id="Y3a7!;UtTVB(-tbTB*1:">
+            <field name="TEXT">Screen2</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="K{F#@jayZZip#hg#3P,q" x="-667" y="13">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="fmH#/NfmyON.NK]x.uB`">
+        <value name="SCREEN">
+          <block type="text" id="6r!Vk=EIY#5qreK#ro1%">
+            <field name="TEXT">Test_EQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

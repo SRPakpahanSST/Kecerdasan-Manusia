@@ -1,0 +1,80 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="**ba4Q_3l|LEP@7CIM5O" x="-467" y="-254">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="qnxu%qsS[v8nq|W8EcK{">
+        <value name="SCREEN">
+          <block type="text" id="-#*6Xc@g_;@d#1nG=0D[">
+            <field name="TEXT">Screen1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="$Umgs#0yP[+`O!Iyrzw`" x="-477" y="-157">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="component_method" id="+^of9EU^`kEqKu~,/wcU">
+        <mutation component_type="Notifier" method_name="ShowChooseDialog" is_generic="false" instance_name="Notifier1"></mutation>
+        <field name="COMPONENT_SELECTOR">Notifier1</field>
+        <value name="ARG0">
+          <block type="text" id="fyL=PH1?Wc=*.:y?Pj!i">
+            <field name="TEXT">Keluar Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="S_d{mvJ?fwo,CRy7I-eO">
+            <field name="TEXT">Anda Yakin Keluar Dari Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="D[bf-SLS=YDjy%dGA?^j">
+            <field name="TEXT">EXIT</field>
+          </block>
+        </value>
+        <value name="ARG3">
+          <block type="text" id="Zhu}s0Op8By{K!#L}H:S">
+            <field name="TEXT">STAY</field>
+          </block>
+        </value>
+        <value name="ARG4">
+          <block type="logic_boolean" id="_*S~p_D4^6w2cJ^gtDx,">
+            <field name="BOOL">FALSE</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="=Dl1cadD0_StZ%eb=Aiz" x="-476" y="59">
+    <mutation component_type="Notifier" is_generic="false" instance_name="Notifier1" event_name="AfterChoosing"></mutation>
+    <field name="COMPONENT_SELECTOR">Notifier1</field>
+    <statement name="DO">
+      <block type="controls_if" id="H=ks[:_I|}#IzBH:^Wc{">
+        <value name="IF0">
+          <block type="logic_compare" id="2vFc7kDI(5Dw|i{(7a#,">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="VRUQ!eVhdkaWUv}JKVk6">
+                <mutation>
+                  <eventparam name="choice"></eventparam>
+                </mutation>
+                <field name="VAR">choice</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="6=D}IM5(8cxcy5/W[%c^">
+                <field name="TEXT">EXIT</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_closeApplication" id="mwT~NoWo|M:UY0QQy[62"></block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

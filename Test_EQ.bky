@@ -1,0 +1,3972 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="global_declaration" id="ZavlOI(feHuY4U)=XZ{]" x="163" y="-3977">
+    <field name="NAME">Pertanyaan</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="d.e}|3kw`_v~RVY7.v7%">
+        <mutation items="124"></mutation>
+        <value name="ADD0">
+          <block type="text" id="Ke5PGge=zn_Nn=aUnh42">
+            <field name="TEXT">Saya telah banyak belajar banyak tentang diri sendiri dengan mendengarkan perasaan saya.</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id=")RdGx;?tSVN+p22[Ji!M">
+            <field name="TEXT">Saya bisa mengatakan kapan saya menjadi marah.</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="XNPY7Yghc%j/H-kHu).z">
+            <field name="TEXT">Bila saya sedih, saya tahu alasannya.</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="n+got844v-,C/nVHp2[N">
+            <field name="TEXT">Saya cenderung menghakimi diri sendiri dengan pola pikir orang lain tentang saya </field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="U7[GPF+rVrG{$Zqsp]#n">
+            <field name="TEXT">Saya menikmati kehidupan emosi saya </field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="H:@2Ay#+g~n2D_Z!p+0Z">
+            <field name="TEXT">Orang yang sering menunjukkan emosi yang kuat membuat saya takut </field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="O?PUg[S3ON).7S80cR4!">
+            <field name="TEXT">Saya sering ingin menjadi orang lain </field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id=")a1EvS1Ut)!HW51Lc*YA">
+            <field name="TEXT">Saya memperhatikan keadaan fisik saya untuk memahami perasaan saya </field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="C$q=Y6A{aeDzD@4r?fId">
+            <field name="TEXT">Saya menerima perasaan saya sebagaimana adanya </field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="V^LXQmUL#k$[V+38[bf%">
+            <field name="TEXT">Saya mengungkapkan emosi saya meskipun emosi itu negatif </field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="9/^{sCpMLEm]=@.Ds+K`">
+            <field name="TEXT">Teman dekat saya akan mengatakan bahwa saya mengungkapkan penghargaan terhadap mereka </field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="47zv.rYB*[vgtxD5=Dp9">
+            <field name="TEXT">Saya menyimpan perasaan bagi saya sendiri </field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="%7$bLVl,ST%[b4SN)0(6">
+            <field name="TEXT">Saya membiarkan orang lain tahu bila ada perasaan tidak enak yang mengganggu pekerjaan kami </field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="ATU;L_,mTTKKIi_b24]4">
+            <field name="TEXT">Saya sulit meminta tolong kepada orang lain saat saya memerlukan bantuan </field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="3+[V%xiluz?iu}{,B(-[">
+            <field name="TEXT">Dalam berinteraksi dengan orang lain, saya dapat merasakan perasaan mereka </field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="raHU%3Rz/HyFvSo:tY8:">
+            <field name="TEXT">Saya akan melakukan apa saja agar tidak nampak tolol di depan teman teman saya </field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="7Ld*a2gVr5JltOT5zX9d">
+            <field name="TEXT">Saya merasa sulit berbicara dengan orang yang tidak satu sudut pandang dengan saya </field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="2c%kPQgtO44~q*E7pdf7">
+            <field name="TEXT">Saya jarang terdorong untuk menghibur otang lain</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="d;jtVF:wzd~mvj?eljiw">
+            <field name="TEXT">Saya berpikir tentang perasaaan orang lain sebelum mengungkapkan pandangan saya </field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="mXZ5[5MrX$-W%$Mj;,P-">
+            <field name="TEXT">Saya tidak peduli dengan siapa saya berbincang, saya selalu menjadi pendengar yang baik </field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="s9-n%GwqwosqBL!^,5mi">
+            <field name="TEXT">Saya dapat merasakan suasana hati suatu kelompok ketika saya masuk ruangan </field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="/^Q9;T9qdmITtL[.TkT~">
+            <field name="TEXT">Saya dapat membuat orang yang baru saya kenal berbicara tentang mereka sendiri </field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="t7W`wiq9XMLn`ZwcMOVl">
+            <field name="TEXT">Saya ahli “membaca yang tersirat”ketika seseorang berbicara.</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="FbJ1}k,Y_$R)#-5]KamA">
+            <field name="TEXT">Saya biasanya dapat mengetahui bagaimana perasaan orang lain terhadap saya</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="wV]e7?b!E)HHNs+7%{0:">
+            <field name="TEXT">Saya dapat mengetahui perasaan seseorang kendati ia tak berbicara </field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="kG)H5GR3%8=mESO7:*b(">
+            <field name="TEXT">Saya mengubah ekspresi emosi saya tergantung dengan siapa saya berhadapan</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="k7O!/Sdh-a;HzU=NV{1b">
+            <field name="TEXT">Saya menyelesaikan hampir semua yang saya mulai </field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="1LDnx/[O:`0:u~nkMh0M">
+            <field name="TEXT">Saya tahu cara menghargai diri sendiri sesudah meraih sesuatu sasaran </field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id=",(zTPhQHU[nC61?,W#^T">
+            <field name="TEXT">Saya dapat menyingkirkan dahulu imbalan-imbalan jangka pendek demi sasaran jangka panjang</field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id="Q.h(z.I;cO$(YXICDeDN">
+            <field name="TEXT">Saya dapat memusatkan perhatian saya pada suatu tugas sampai selesai bila saya harus demikian</field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="n]u0]B9@X$DgVO?L{AnY">
+            <field name="TEXT">Saya mengerjakan hal-hal yang belakangan saya sesali </field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="y2~r~41*iqNw*yfL+c6V">
+            <field name="TEXT">Saya menerima tanggung jawab atas pengelolaan emosi saya </field>
+          </block>
+        </value>
+        <value name="ADD32">
+          <block type="text" id="-K,#1I*#%r$h+gMP!d=V">
+            <field name="TEXT">Ketika berhadapan dengan suatu masalah, saya suka mengurusinya selekas mungkin </field>
+          </block>
+        </value>
+        <value name="ADD33">
+          <block type="text" id="*zZKIWajOV8AEa3Y_GTE">
+            <field name="TEXT">Saya berpikir tentang yang saya inginkan sebelum bertindak </field>
+          </block>
+        </value>
+        <value name="ADD34">
+          <block type="text" id="qO1l,`oJtn%Ty_[jQ!`i">
+            <field name="TEXT">Bila suasana hati saya sedang jelek, saya dapat membicarakannya dengan diri sendiri </field>
+          </block>
+        </value>
+        <value name="ADD35">
+          <block type="text" id="~B`KV%is/,)`w7U1kH*T">
+            <field name="TEXT">Saya marah apabila di kritik</field>
+          </block>
+        </value>
+        <value name="ADD36">
+          <block type="text" id="3)6t5MICwuP$1cH=2VKT">
+            <field name="TEXT">Saya sering tidak mengetahui penyebab kemarahan saya </field>
+          </block>
+        </value>
+        <value name="ADD37">
+          <block type="text" id="imY!ghx?L?nx9Qb[SIs`">
+            <field name="TEXT">Saya berperan serta dalam berbagai informasi dan gagasan </field>
+          </block>
+        </value>
+        <value name="ADD38">
+          <block type="text" id="`,4@H}E^DZ2rU),erS^V">
+            <field name="TEXT">Gagasan terbaik saya muncul ketika saya sedang tidak memikirkannya </field>
+          </block>
+        </value>
+        <value name="ADD39">
+          <block type="text" id="@Er:d,0gbNf^pT@1q]=B">
+            <field name="TEXT">Saya mempunyai gagasan gagasan cemerlang baik yang berupa kilasan maupun yang tampak secara </field>
+          </block>
+        </value>
+        <value name="ADD40">
+          <block type="text" id="GrsnIgLx~_Uds^ioI!@d">
+            <field name="TEXT">Saya memiliki penginderaan yang baik mengenai kapan suatu gagasan akan berhasil atau gagal</field>
+          </block>
+        </value>
+        <value name="ADD41">
+          <block type="text" id=";STrtLTm11NO.|f75%#m">
+            <field name="TEXT">Saya tergerak oleh konsep konsep yang baru dan tidak lazim </field>
+          </block>
+        </value>
+        <value name="ADD42">
+          <block type="text" id="b}UFP`PET}JZqcv-,eOj">
+            <field name="TEXT">Saya telah menerapkan proyek proyek inovatif di perusahaan Saya </field>
+          </block>
+        </value>
+        <value name="ADD43">
+          <block type="text" id="yzgf8`[J^`ZPt(lLazC$">
+            <field name="TEXT">Saya tergerak oleh gagasan gagasan dan solusi solusi baru</field>
+          </block>
+        </value>
+        <value name="ADD44">
+          <block type="text" id="UH)iz,dy;]4_:0J}sTwL">
+            <field name="TEXT">Saya ahli dalam menggodok pemecahan masalah sampai menghasilkan sejumlah pilihan</field>
+          </block>
+        </value>
+        <value name="ADD45">
+          <block type="text" id="@=O@6J%`:FSKSK`kZ4cs">
+            <field name="TEXT">Saya dapat memperoleh yang saya butuhkan jika tekad saya sudah bulat</field>
+          </block>
+        </value>
+        <value name="ADD46">
+          <block type="text" id="@M.}YaTIc#M]_jA1Pd,5">
+            <field name="TEXT">saya mudah menunggu antrian dengan sabar bila harus demikian </field>
+          </block>
+        </value>
+        <value name="ADD47">
+          <block type="text" id="-HFQ76*~1Zm1rUa`UUqg">
+            <field name="TEXT">Selalu ada lebih dari satu jawaban yang benar</field>
+          </block>
+        </value>
+        <value name="ADD48">
+          <block type="text" id="PZRT8$R1O-tj{kW5|txN">
+            <field name="TEXT">Saya tahu cara memuaskan seluruh bagian dalam diri saya</field>
+          </block>
+        </value>
+        <value name="ADD49">
+          <block type="text" id="8LRs;ICk#6ho}5/QT3T5">
+            <field name="TEXT">Saya bukan orang yang suka menangguhkan suatu pekerjaan </field>
+          </block>
+        </value>
+        <value name="ADD50">
+          <block type="text" id="!re)|{JXVgu=]ACIDGpa">
+            <field name="TEXT">Saya takut mencoba lagi bila sudah pernah gagal dalam pekerjaan yang sama </field>
+          </block>
+        </value>
+        <value name="ADD51">
+          <block type="text" id="/VCztGB1:;{J3Ni7r[r[">
+            <field name="TEXT">Saya memutuskan bahwa masalah masalah tertentu tidak berharga untuk di cemaskan </field>
+          </block>
+        </value>
+        <value name="ADD52">
+          <block type="text" id="3b|NVqLi67ekaSkztqt3">
+            <field name="TEXT">Saya menyantaikan diri bila mulai tegang</field>
+          </block>
+        </value>
+        <value name="ADD53">
+          <block type="text" id="o{5fY{x]4bPBWRk/`382">
+            <field name="TEXT">saya dapat melihat sisi humor suatu situasi</field>
+          </block>
+        </value>
+        <value name="ADD54">
+          <block type="text" id="nD}c|K5^]{/4!fFWWUqk">
+            <field name="TEXT">Saya sering menyampingkan dahulu suatu masalah untuk mendapatkan perspektif yang lebih baik </field>
+          </block>
+        </value>
+        <value name="ADD55">
+          <block type="text" id="yi?(.@4GLgD0w$P[kqrc">
+            <field name="TEXT">Bila menghadapi suatu masalah, saya memusatkan perhatian pada yang dapat saya perbuat untuk memecahkannya </field>
+          </block>
+        </value>
+        <value name="ADD56">
+          <block type="text" id="mKZUnXD9iSlsUcBDJM.A">
+            <field name="TEXT">Saya merasa tak nyaman bila seseorang terlalu dekat secara emosional dengan saya </field>
+          </block>
+        </value>
+        <value name="ADD57">
+          <block type="text" id="GIxhK(-Gk2/u.ijKy{pT">
+            <field name="TEXT">Saya banyak menumbuhkan rasa sayang kepada teman teman saya </field>
+          </block>
+        </value>
+        <value name="ADD58">
+          <block type="text" id="E[R^PeUS~W^#cTlM@r1;">
+            <field name="TEXT">Bila mempunyai masalah, saya tahu harus pergi kemana dan harus berbuat apa untuk memecahkannya </field>
+          </block>
+        </value>
+        <value name="ADD59">
+          <block type="text" id="uu/2ztRf=[n$94l+,-KH">
+            <field name="TEXT">Keyakinan dan nilai nilai yang saya anut menuntut tindakan saya sehari hari </field>
+          </block>
+        </value>
+        <value name="ADD60">
+          <block type="text" id=":NFZmaU3LeM(4:|I1*oP">
+            <field name="TEXT">Keluarga saya selalu siap bila saya membutuhkan mereka</field>
+          </block>
+        </value>
+        <value name="ADD61">
+          <block type="text" id="ZAc%OR0=2pzh.ec?eF!j">
+            <field name="TEXT">Saya ragu tentang apakah teman teman sungguh peduli kepada saya sebagai pribadi </field>
+          </block>
+        </value>
+        <value name="ADD62">
+          <block type="text" id="$ZG.PN*%2-x%a[A[a9]3">
+            <field name="TEXT">Saya sulit untuk mendapatkan teman</field>
+          </block>
+        </value>
+        <value name="ADD63">
+          <block type="text" id="/{K6%RVmqe}BJ%7F[}G:">
+            <field name="TEXT">Saya hampir tidak pernah menangis</field>
+          </block>
+        </value>
+        <value name="ADD64">
+          <block type="text" id="F1F)^24CnMgUIz5JJn+L">
+            <field name="TEXT">Saya tidak akan mengungkapkan perasaaan saya jika saya     yakin bahwa itu akan menimbulkan perbedaan pendapat</field>
+          </block>
+        </value>
+        <value name="ADD65">
+          <block type="text" id="^pDp:V]-$,@xyO:?7Cvw">
+            <field name="TEXT">Saya tetap tenang bahkan dalam situasi yang membuat orang lain marah </field>
+          </block>
+        </value>
+        <value name="ADD66">
+          <block type="text" id="U-:^()K]O:pCAqSKJQ9_">
+            <field name="TEXT">Lebih baik tidak membuat masalah bila saya dapat menghindarinya </field>
+          </block>
+        </value>
+        <value name="ADD67">
+          <block type="text" id="#(Rue9hFc#oyF:L9zu3w">
+            <field name="TEXT">Saya merasa sulit mencapai kata sepakat dengan rekan rekan sekerja saya</field>
+          </block>
+        </value>
+        <value name="ADD68">
+          <block type="text" id="hYF8~m6)a:YmJm9ZqHgT">
+            <field name="TEXT">Saya mencari umpan balik dari rekan rekan kerja saya mengenai kinerja saya </field>
+          </block>
+        </value>
+        <value name="ADD69">
+          <block type="text" id="K7n~h%@v/`a9`}?p49Zq">
+            <field name="TEXT">Saya ahli dalam mengorganisasi dan memotivasi seluruh kelompok  </field>
+          </block>
+        </value>
+        <value name="ADD70">
+          <block type="text" id="6RDKO^+dC-8l6;9fC{i.">
+            <field name="TEXT">Saya senang menghadapi tantangan dan memecahkan masalah dalam pekerjaan </field>
+          </block>
+        </value>
+        <value name="ADD71">
+          <block type="text" id="Q`/o(+q7y[Oep].2-y%W">
+            <field name="TEXT">Saya mendengarkan kritik dengan pikiran terbuka dan menerimanya bila dapat dibenarkan</field>
+          </block>
+        </value>
+        <value name="ADD72">
+          <block type="text" id=".KUKNGzG%JN@jcZpw.QI">
+            <field name="TEXT">Saya membiarkan masalah mencapai titik kritis sebelum membicarakannya</field>
+          </block>
+        </value>
+        <value name="ADD73">
+          <block type="text" id="Lt`B`1d=$Z%z(2v{ijcg">
+            <field name="TEXT">Bila melontarkan komentar yang kritis, saya memusatkan perhatian pada perilaku bukan pada orangnya </field>
+          </block>
+        </value>
+        <value name="ADD74">
+          <block type="text" id="+eHSxZ!6(t5Oy3gmP@I?">
+            <field name="TEXT">Saya menghindari konfrontasi</field>
+          </block>
+        </value>
+        <value name="ADD75">
+          <block type="text" id="INAu#jRk4V8jcS#;BjF}">
+            <field name="TEXT">Saya dapat membaca emosi orang lain dari bahasa tubuh mereka </field>
+          </block>
+        </value>
+        <value name="ADD76">
+          <block type="text" id="1AMygSh5Z|dN^eYXY[oM">
+            <field name="TEXT">saya tidak akan ragu meninggalkan kesibukan saya guna menolong orang yang kesulitan </field>
+          </block>
+        </value>
+        <value name="ADD77">
+          <block type="text" id="y|rJl]IFr}XAs8?D9PIw">
+            <field name="TEXT">Saya memperhitungkan perasaan orang lain dalam berinteraksi dengan mereka</field>
+          </block>
+        </value>
+        <value name="ADD78">
+          <block type="text" id="TcmO=J8he|?.K^$p2jK%">
+            <field name="TEXT">Saya dapat menampakkan diri dalam kedudukan orang lain</field>
+          </block>
+        </value>
+        <value name="ADD79">
+          <block type="text" id="#BBd%5HYqdR^zWy(hx6b">
+            <field name="TEXT">Ada beberapa orang yang tidak akan pernah saya maafkan </field>
+          </block>
+        </value>
+        <value name="ADD80">
+          <block type="text" id="+51^18CO{JW^C-7ergF(">
+            <field name="TEXT">Saya dapat memaafkan diri sendiri karena tidak sempurna </field>
+          </block>
+        </value>
+        <value name="ADD81">
+          <block type="text" id="z/4{lTQkR:ITn%R1~M57">
+            <field name="TEXT">ketika berhasil mengerjakan sesuatu, saya sering merasa sesungguhnya bisa lebih baik </field>
+          </block>
+        </value>
+        <value name="ADD82">
+          <block type="text" id="Vb6XeYiE%R0uZgtw.pm1">
+            <field name="TEXT">Saya membantu orang lain menjaga harga dirinya dalam suatu situasi sulit</field>
+          </block>
+        </value>
+        <value name="ADD83">
+          <block type="text" id="*]X!BN(A{@d6R?ZsOO42">
+            <field name="TEXT">Saya terus mencemaskan kekurangan kekurangan saya</field>
+          </block>
+        </value>
+        <value name="ADD84">
+          <block type="text" id="):/FYydbs[]:S7[`[+hO">
+            <field name="TEXT">Saya iri kepada orang lain yang lebih mampu daripada saya</field>
+          </block>
+        </value>
+        <value name="ADD85">
+          <block type="text" id="P3]:}@{A;FKO7Jtt.m!Y">
+            <field name="TEXT">Saya mencintai hidup saya</field>
+          </block>
+        </value>
+        <value name="ADD86">
+          <block type="text" id="gIZ14y[cc=nbXyEW]HnG">
+            <field name="TEXT">Saya percaya segala sesuatu biasanya membaik dengan sendirinya</field>
+          </block>
+        </value>
+        <value name="ADD87">
+          <block type="text" id="`}x:m=t.sW1_*^XfH}{N">
+            <field name="TEXT">Saya terus merasa frustasi dalam hidup ini karena banyak orang yang ingkar janji</field>
+          </block>
+        </value>
+        <value name="ADD88">
+          <block type="text" id="y%_k|zef}~CO+g`)%fD=">
+            <field name="TEXT">Saya melihat tantangan sebagai peluang untuk belajar </field>
+          </block>
+        </value>
+        <value name="ADD89">
+          <block type="text" id="Ff[!]hfjqt=7]#Go;{u{">
+            <field name="TEXT">Dibawah tekanan, saya percaya akan mendapatkan sebuah pemecahan </field>
+          </block>
+        </value>
+        <value name="ADD90">
+          <block type="text" id="GmA%SH]-(#K3+B0IaN[a">
+            <field name="TEXT">Firasat saya biasanya benar</field>
+          </block>
+        </value>
+        <value name="ADD91">
+          <block type="text" id="_NuahZz(C=-efHT$D;99">
+            <field name="TEXT">Saya dapat melihat produk atau gambaran akhir meskipun saat ini belum selesai </field>
+          </block>
+        </value>
+        <value name="ADD92">
+          <block type="text" id="ZMxj]*x?hdY;!uT??dW0">
+            <field name="TEXT">Saya percaya dengan impian saya meskipun orang lain tidak dapat melihat atau memahami semua itu</field>
+          </block>
+        </value>
+        <value name="ADD93">
+          <block type="text" id="4q-)nQ]r-S6Gx0p+Td%}">
+            <field name="TEXT">Ketika dihadapkan dengan pilihan yang sulit, saya mengikuti kata hati saya</field>
+          </block>
+        </value>
+        <value name="ADD94">
+          <block type="text" id="mzY-Zc~-%9e6[[6;NVxv">
+            <field name="TEXT">Begitu telah membulatkan tekad, saya jarang mengubahnya </field>
+          </block>
+        </value>
+        <value name="ADD95">
+          <block type="text" id="u*bMFWBwJ?rNTFlre4l/">
+            <field name="TEXT">Orang mengatakan bahwa saya dapat meramal</field>
+          </block>
+        </value>
+        <value name="ADD96">
+          <block type="text" id="4JTlDQ#kU/u=A!lF7:C@">
+            <field name="TEXT">Ketika seseorang menyampaikan pAndangan yang berbeda dari saya, saya sulit menerimanya</field>
+          </block>
+        </value>
+        <value name="ADD97">
+          <block type="text" id="JNWenfjtTip{RsB2Xt-8">
+            <field name="TEXT">Saya mengandalkan dorongan hati ketika membuat keputusan</field>
+          </block>
+        </value>
+        <value name="ADD98">
+          <block type="text" id="Zp~iO;1NhH-;[my={ANI">
+            <field name="TEXT">Saya percaya sampai saya mempunyai alasan untuk tidak demikian </field>
+          </block>
+        </value>
+        <value name="ADD99">
+          <block type="text" id="%uu[{DYA4.Hv8=#[RTga">
+            <field name="TEXT">Saya menghormati teman teman saya</field>
+          </block>
+        </value>
+        <value name="ADD100">
+          <block type="text" id=".:[]tZc:me.x;~DJhiL]">
+            <field name="TEXT">Orang orang yang setara dengan saya di perusahaan saya     mendapatkan yang lebih baik (misalnya kenaikan gaji, promosi, peluang, dsb) dari pada saya</field>
+          </block>
+        </value>
+        <value name="ADD101">
+          <block type="text" id="4O~*i}[J.Na}hq?O!GCV">
+            <field name="TEXT">Orang orang yang menjadi rekan kerja saya dapat dipercayai      </field>
+          </block>
+        </value>
+        <value name="ADD102">
+          <block type="text" id="b`Ur0=lW;gsnNE!-=Q4X">
+            <field name="TEXT">Rasanya saya tidak dapat berbuat banyak</field>
+          </block>
+        </value>
+        <value name="ADD103">
+          <block type="text" id="d}d2:d3GyKk?iXa@G5db">
+            <field name="TEXT">Sedikit sekali dalam hidup ini yang adil atau layak</field>
+          </block>
+        </value>
+        <value name="ADD104">
+          <block type="text" id="9nB6dG4!,IDn~dwAfYSm">
+            <field name="TEXT">Ketika sesuatu hal tidak beres, saya mencoba mengatasinya dengan rencana alternative </field>
+          </block>
+        </value>
+        <value name="ADD105">
+          <block type="text" id="Qi?ay8Jtw7B~x:{*qYhL">
+            <field name="TEXT">Ketika bertemu dengan orang orang baru, sedikit sekali     informasi pribadi yang saya ungkapkan kepada mereka </field>
+          </block>
+        </value>
+        <value name="ADD106">
+          <block type="text" id="11YZKHCfA=~*TQlu2hvi">
+            <field name="TEXT">Nasib memainkan peranan yang penting dalam hidup saya</field>
+          </block>
+        </value>
+        <value name="ADD107">
+          <block type="text" id="g/[lGJZSFiJ;LWoYBqY(">
+            <field name="TEXT">Keadaan sudah diluar kendali saya</field>
+          </block>
+        </value>
+        <value name="ADD108">
+          <block type="text" id="Xj^+Q?f~TNIrGY%N{J]c">
+            <field name="TEXT">Saya membutuhkan pengakuan dari orang lain untuk menjadikan karya saya terasa berharga </field>
+          </block>
+        </value>
+        <value name="ADD109">
+          <block type="text" id="Vf!`CZVfQ^[Xjyf0A}m-">
+            <field name="TEXT">Saya mudah menyukai sesuatu</field>
+          </block>
+        </value>
+        <value name="ADD110">
+          <block type="text" id=",aNvVrx9t?)N`71d$5sC">
+            <field name="TEXT">Saya sulit menerima pujian</field>
+          </block>
+        </value>
+        <value name="ADD111">
+          <block type="text" id="KzTC2%c=d=Wl$sp@gxBC">
+            <field name="TEXT">Saya mempunyai kemampuan mendapatkan yang saya inginkan </field>
+          </block>
+        </value>
+        <value name="ADD112">
+          <block type="text" id="173{O.aJZ`0EQFtMJE/y">
+            <field name="TEXT">Saya merasa dapat mengendalikan hidup saya</field>
+          </block>
+        </value>
+        <value name="ADD113">
+          <block type="text" id="FkzgbpkjFth(}cy%s2m#">
+            <field name="TEXT">Kalau saya merenungkan hidup saya, saya mungkin menemukan bahwa pada dasarnya saya tidak berbahagia.</field>
+          </block>
+        </value>
+        <value name="ADD114">
+          <block type="text" id="O]Beg)30`w?_11u+YSdO">
+            <field name="TEXT">Saya merasa takut dan lepas kendali apabila segala sesuatu berubah dengan cepat.</field>
+          </block>
+        </value>
+        <value name="ADD115">
+          <block type="text" id="UgWGCYeBV!?!V`FBtTDJ">
+            <field name="TEXT">Saya senang dan bertanggung jawab atas sesuatu</field>
+          </block>
+        </value>
+        <value name="ADD116">
+          <block type="text" id="xB.h[U-D6$yj{CIF}CWh">
+            <field name="TEXT">Saya tahu yang saya inginkan sesudah ini.</field>
+          </block>
+        </value>
+        <value name="ADD117">
+          <block type="text" id="@2R%w89{Ye|tRs-(;Jj/">
+            <field name="TEXT">Saya merasa seperti seorang penipu </field>
+          </block>
+        </value>
+        <value name="ADD118">
+          <block type="text" id="R`b1(;q@{I%y=ed$M;C|">
+            <field name="TEXT">Pekerjaan saya adalah perpanjangan dari system nilai pribadi saya  </field>
+          </block>
+        </value>
+        <value name="ADD119">
+          <block type="text" id="]Ei!?R+h+q(a.z5iE[]_">
+            <field name="TEXT">Saya tidak pernah berbohong</field>
+          </block>
+        </value>
+        <value name="ADD120">
+          <block type="text" id="06,dXJ`R7@%#10UC(BWv">
+            <field name="TEXT">Saya bisa menerima suatu situasi meskipun tidak mempercayainya </field>
+          </block>
+        </value>
+        <value name="ADD121">
+          <block type="text" id="pBV3u]l*l2#!-[S[%]B{">
+            <field name="TEXT">Saya membesar besarkan kemampuan saya agar memperoleh kesempatan yang lebih baik </field>
+          </block>
+        </value>
+        <value name="ADD122">
+          <block type="text" id="_WSR@JRrjY2MBRt!I%*{">
+            <field name="TEXT">Saya berterus terang meskipun yang saya hadapi sulit </field>
+          </block>
+        </value>
+        <value name="ADD123">
+          <block type="text" id="xd5bho#b}b{yQ#L(8:%b">
+            <field name="TEXT">Saya telah mengerjakan sesuatu dalam pekerjaan saya yang bertentangan dengan keyakinan saya.  </field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="e=,g8SmF+Q}[IWrW_xY]" x="977" y="-3946">
+    <field name="NAME">Jawaban</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="UZv,i=^4rZp935h)V7ge">
+        <mutation items="1"></mutation>
+        <value name="ADD0">
+          <block type="text_join" id="`{INj(aqT,zXz/;LC*jr">
+            <mutation items="4"></mutation>
+            <value name="ADD0">
+              <block type="text" id="x|[[3_UH[,GP(iOZ5p`U">
+                <field name="TEXT">3</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="text" id="PCF08@a9dcVK.KiJ^c59">
+                <field name="TEXT">2</field>
+              </block>
+            </value>
+            <value name="ADD2">
+              <block type="text" id=")McRr|A[:UEwN8H]=8#:">
+                <field name="TEXT">1</field>
+              </block>
+            </value>
+            <value name="ADD3">
+              <block type="text" id="V{_=4qCXLEs!_!=GRrk,">
+                <field name="TEXT">0</field>
+              </block>
+            </value>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="TJtK,k~nf9}QKejeBv7." x="164" y="-715">
+    <field name="NAME">Pilihan_a</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="nH*2Z0kGTs{Dd/(t:yzy">
+        <mutation items="124"></mutation>
+        <value name="ADD0">
+          <block type="text" id="~c*7}NGte7pw884f*fa8">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="![T%gZFBbSjTeayJA0OU">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="f1]kwIYjQ*xss;I)Mr8X">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="ivE?n(N:Eh0{QIy51t#a">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="tKluZpQ0Lgps8VrdJ:Zh">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="5c_AtRk7__Hx{%(^nPSZ">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="CW^doqzy9kp~ADlk4[Ph">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="#S$n`:~?XY{aQhenRK%L">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="%}VgFQ{RK01Zr!)$,o9c">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="puMEy%w#x${`o3~,R)I7">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="Tv?{b1P5nWJ3z}U+Sppr">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="J@snpG;h`5/%6S[X!fZY">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="!te%u]ot4K(D-6x@$[h9">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="zdcEK.q#Rrm$s*n0VwqR">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="_mcsD;xTQ41x{U`(7gHm">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="LmPXP,fEsTr/Ut_Xe4S|">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="0i6)]7~|k.PpX?(HQT$-">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="xD/H.~]9Tbx][(pn^Uw%">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="9]D#)lBE$RpSHX5o.D6$">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="tyu???3j@eC$KQb6Gtt}">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="c58x#2Xn6:4USnTR?1@*">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="!H;`;yfy0.#^HnMwD/oq">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="p[~X=ty[uem.}8ueFC;;">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="{Z/vC5oG(d~tYlsj1cA.">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="kwc0?!O/3KwyQM+uYOhl">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="f5K/NUe!DnLgv@Z,5[D$">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="7C]MzU8o*CrsB:Dzh!ei">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="Q|`=0|6XR=EY~/X6IF(.">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id="KsQUzg$OA3`zfwp^!hA]">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id=".Ia$KaQ(-^MZ)H{(5ow]">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="6#?J^a]/6m$tAp:6]:!5">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="+bh2^1Aq)z[)8tyEc5k/">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD32">
+          <block type="text" id="Q@$J6)iHu#,^f}0fG6PH">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD33">
+          <block type="text" id="(lF)J!Fk_5]4X~2o~TO6">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD34">
+          <block type="text" id="x9m]dBv2EWg^b!0xS{H6">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD35">
+          <block type="text" id="!fVv+*UeD}_REK|!vJtv">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD36">
+          <block type="text" id="*z!#1,!GMv%8Zjq:wxP%">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD37">
+          <block type="text" id="4ELie*)sI=QLI!I_:v5h">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD38">
+          <block type="text" id="VW#|Bj%y.Fv%-`geM?9j">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD39">
+          <block type="text" id="Ib:2O~qYZVg`3O=B4PEP">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD40">
+          <block type="text" id="qWRb,[3iNO)Xz3]r7=%d">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD41">
+          <block type="text" id=",eF]8]%N+BH__]e!W+DV">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD42">
+          <block type="text" id="59#Jv(T}0K7U|k]-76%[">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD43">
+          <block type="text" id="^*,G1qOlm*5Elyt7tc#1">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD44">
+          <block type="text" id="bX38Q7^o27j$Yl#lP_b_">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD45">
+          <block type="text" id="KLs70b^W}QwVStP(C9M+">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD46">
+          <block type="text" id="9|u-ljg6QcHmQy~8Hs-Q">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD47">
+          <block type="text" id=")JeMZoc+4i?CWL#J)B5:">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD48">
+          <block type="text" id="]m4?{DrQ50R)}2YAR(TI">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD49">
+          <block type="text" id="5Up{qAkR^FMccqVm,2kc">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD50">
+          <block type="text" id="X:ESpDT,:`@QaSa90h=7">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD51">
+          <block type="text" id="!mRPbGw,M!a[HmUys:Ez">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD52">
+          <block type="text" id="31)yrU;Jl9}2:LXyX{nq">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD53">
+          <block type="text" id="@ep,82oYXm85-uk}k0Ab">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD54">
+          <block type="text" id="l_Vpk+$7hn`Zv[Eq^E;7">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD55">
+          <block type="text" id="{5f(=fe^II)+sXSlpUmW">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD56">
+          <block type="text" id="E{sLO1w0%q3)S7Mmz(hl">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD57">
+          <block type="text" id="LW2G|_e{YG)$]h}$W2#1">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD58">
+          <block type="text" id="Sv]G.qg`~t%JNto*I/pE">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD59">
+          <block type="text" id="=tzm7Z[}xjwKG*F1{/Rg">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD60">
+          <block type="text" id="@w-a4[l|p)iqR:,5+(}0">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD61">
+          <block type="text" id=":5m7qxmTyDnWj~O0H@Y*">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD62">
+          <block type="text" id="BaX/:N[T@-hCNvpFn1Y6">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD63">
+          <block type="text" id="VtVIiEZw501H6ad=#z+_">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD64">
+          <block type="text" id="1}*q@JQ+R6kp[?-]AFuz">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD65">
+          <block type="text" id="BORi)3d+^g%kI|Pw[tXN">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD66">
+          <block type="text" id=":+nH5Jy$TvRsfLAR#k4N">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD67">
+          <block type="text" id="IHta8Am*E)];q6q?tHP:">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD68">
+          <block type="text" id="~e[{)!19H[T7S{00pOn/">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD69">
+          <block type="text" id="=*P4)JXng:-^%;3]*Ps*">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD70">
+          <block type="text" id="4B$5ih?pL`59@|j9$B,x">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD71">
+          <block type="text" id="*nwqf[wIT*Gg_XN@@mDu">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD72">
+          <block type="text" id=";mS6d#HIO/;gUFC}|PqX">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD73">
+          <block type="text" id="?(wP!5v.~=Az}G;e3g~/">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD74">
+          <block type="text" id="E:r:zL4~{Fbg3SpknG-Y">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD75">
+          <block type="text" id="75]FUH^O5SFf^#9=j#I`">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD76">
+          <block type="text" id="m=nP}(93;]/I`+@f%By!">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD77">
+          <block type="text" id="?(JWR1W+;y2;TIOD/c1|">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD78">
+          <block type="text" id="R:Wz$7Nb7T7xE;hfTU7l">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD79">
+          <block type="text" id="WxzEze:wr|cmtUIN1vh4">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD80">
+          <block type="text" id="gnWQzd*VP9rF_$+Z-k3Y">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD81">
+          <block type="text" id="Vjb@$pZJ78~oN`?(=6KL">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD82">
+          <block type="text" id="35ta4Lvt2$IJ]NrTC.FJ">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD83">
+          <block type="text" id="GtneJv|laDOEU7JLm;|z">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD84">
+          <block type="text" id="~UA-%~b$~WC2Uk-MA9N,">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD85">
+          <block type="text" id="m_~JOvfUip]]~d`w-$^5">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD86">
+          <block type="text" id="96~xih|#V0f{KeC,/:zK">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD87">
+          <block type="text" id="M*0.cnN;R9]Y}MW~!)m)">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD88">
+          <block type="text" id="_mzT,}nv,]6v/nhvU%f~">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD89">
+          <block type="text" id="#|J8gC.Otwbev:h~_wh%">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD90">
+          <block type="text" id="kf36-.ezD~fkqEo.^R-c">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD91">
+          <block type="text" id="+0vK6tM=%W;K--bR3v+$">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD92">
+          <block type="text" id="45aUD#ij[:~W_q7E?(th">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD93">
+          <block type="text" id="rJ,ds]iu{gZ5Mju%miKq">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD94">
+          <block type="text" id="ZNi*h{`XcS;]H2q:a}N{">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD95">
+          <block type="text" id="LPY/^KZC}xP67y!1#7Si">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD96">
+          <block type="text" id="!x_}.YY_s5lE=Lb%Dma8">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD97">
+          <block type="text" id="1`}Jvs$!.:[/Va1ULr1s">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD98">
+          <block type="text" id="r:z#hb%pSq(I.NSL9z?c">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD99">
+          <block type="text" id="C=|C+7Fl%9Rr~xss18fu">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD100">
+          <block type="text" id="iMVqyHrlcYGA|,XhyZ.1">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD101">
+          <block type="text" id=")xOI(9]nKY9(zB55~OO/">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD102">
+          <block type="text" id="qt:o)yR,.$.{~TyhDHRI">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD103">
+          <block type="text" id="[_VsaWzSNvhja@|q|xIM">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD104">
+          <block type="text" id="hLzn|8UY~Lk^7H~)%~|@">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD105">
+          <block type="text" id="_Cvm38Zwtu!F*ahFc,7-">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD106">
+          <block type="text" id="Nq7VP[fmB%ZA/ey~dh#A">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD107">
+          <block type="text" id="bKW,iq`?Em0P(33`aY|E">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD108">
+          <block type="text" id="?ViU44oT/b|+Q85^dWdI">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD109">
+          <block type="text" id="Z3(-D=-LbGqs@c+MiuDQ">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD110">
+          <block type="text" id="S[:HJZA_h,(QMi$r5Hqx">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD111">
+          <block type="text" id="{7_QpIv$mNS:4XbU~ka[">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD112">
+          <block type="text" id="=rP~F?j]g^C|eDxH]=(`">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD113">
+          <block type="text" id="x[j`zle.+B)taXuHHJF8">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD114">
+          <block type="text" id="K8|L2pUjcU=,Iq0}cQQZ">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD115">
+          <block type="text" id="n_Xf$f21/$j-j+y2FM/a">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD116">
+          <block type="text" id="T|b[eR$KB[:04eWxOzjF">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD117">
+          <block type="text" id="b_b_]3(0Yr49=.s%84IE">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD118">
+          <block type="text" id="ae,p}tlN(]VU[=DT?uzF">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD119">
+          <block type="text" id=":^YqT.a/GNX!HlALMa-+">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD120">
+          <block type="text" id="fI[}hY%Ps;xkgYzL/m7a">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD121">
+          <block type="text" id="vZ:NoDdYXcOR,)(85Sf}">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD122">
+          <block type="text" id="|IkeHQPegF$Ig:/hPfIR">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD123">
+          <block type="text" id="|Qnsq1gye|V5_hDAG-)T">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="7|HI~BbIR96OvX8q2t=M" x="697" y="-718">
+    <field name="NAME">Pilihan_b</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="8`3A/_.@-#T77x1PL,X(">
+        <mutation items="124"></mutation>
+        <value name="ADD0">
+          <block type="text" id="BWcv~f?q7e5l@T+Dfrp_">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="CbY0;SC:otJ!zYdJ[Pm[">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="8_%Wp$pVuh=Seoj6jdIo">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="XOjPG$CllQ0W]tAa1K6N">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="Isi1;zu|PN:.kb{^2n~}">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="ND)lM@L]:ej$$5laeh3E">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="pgZiqqo+wI[{hje3yy@G">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="TT.sz!4]r*/)51/V5f,;">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="IvesEyV:0jI]19Id3*?U">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="`oFOj_[wl@sVi]MINvL!">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="E$,g4rTpT:sU*]U.N{HV">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="$UZ4K(;qn,)8,wfIsH#1">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="a~-~7IyF%=y_V8rBF`^G">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="N-Zd]3LJR7kms$vT=iQG">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="Q@I3Q#1BI3;2R[CZeC`;">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="BAt1iD}1q,[ln|G-!#,7">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="U`?`d-CxVcwaDElg{=uR">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="q3Ft.}+8Dz6_+{eDJD1A">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="bVA:G}+-aa*^/ytb7k!t">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="*ocQ!VDl=!)3W`QA9^*4">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="IXJaRsN(:_Qz2-_kcCyg">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="cWyC;t80n;hqN9V_Oj@A">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="};I1Cr,KJ;KIf8UIi?d=">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="/2?){,GY^J2V[nw^bL`O">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="dteZ$KOU+L{RZ.S/FrRG">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="3f*.!M~~iV`Z40hiqo]M">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="P986.{_m8Pp4n4Y.m8M8">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="D?1JWTN,!S$N`ov$T7|9">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id="7oE$w6f;q%!8eP;_^TE5">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id="O[B?x|vz`0p%f2yY4N-q">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="Xchseghq;[}l_B5Mrk`.">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="!kB-O9C+0nhML+a,ED$L">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD32">
+          <block type="text" id="Yy(hf4(g#:3_B^Z@GeTG">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD33">
+          <block type="text" id="RgBpq:ON=S2MH6Zi3tp1">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD34">
+          <block type="text" id="w)C,_#yLH%N+DXJtwz:)">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD35">
+          <block type="text" id="$[*~Xq[-A!cqyJy{IFDF">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD36">
+          <block type="text" id="N+dBHAK~pSuync_yd6Dd">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD37">
+          <block type="text" id="{$uwk6XqL/2/($YBAL+G">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD38">
+          <block type="text" id="18CLkAPOpO@T8Urr]Moh">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD39">
+          <block type="text" id="EFo0a-?C,C/WT-@BTBV%">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD40">
+          <block type="text" id="Ax~bGZA}UmqQ#Pe-=DT^">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD41">
+          <block type="text" id="n~V[lm1;CdzLgFPAPVfG">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD42">
+          <block type="text" id="*Sj)*8g-KoF:62}yL8`g">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD43">
+          <block type="text" id="5:.4ib4-hK3t/tw!@F+P">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD44">
+          <block type="text" id="=)*BG4wVVFk[Myd{CQG{">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD45">
+          <block type="text" id="8vsY#ss?)eujdmVh@k3k">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD46">
+          <block type="text" id="f^@6QO_zZmc)g(6s1FvE">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD47">
+          <block type="text" id="4)?)ESBXDm)ca=Y,Rgvi">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD48">
+          <block type="text" id="7*H]_6NPwBDqd#VEU.Mv">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD49">
+          <block type="text" id="t^AgJ|t,`rBGw5Ys=XN`">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD50">
+          <block type="text" id="Y?y63AfEFJW3]_k]Yic%">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD51">
+          <block type="text" id="AoZnQXbP9Lx6v;Hbx1a?">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD52">
+          <block type="text" id="pal[GLEPu2TqTK0u,-Bm">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD53">
+          <block type="text" id="H2T~f89NLlMe0}mX-w0e">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD54">
+          <block type="text" id="yJM|yVX5Z^2hY`}RSP^T">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD55">
+          <block type="text" id="MeO^)~^lJ16ts1[9#.dW">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD56">
+          <block type="text" id="TA22.Uz*Axo*i[j_;@Uw">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD57">
+          <block type="text" id="Lq)TF9xpv{UO?i7h_.YK">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD58">
+          <block type="text" id="34iZ|XN*WAP72dtXQFOA">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD59">
+          <block type="text" id="wv}zPp7mY.O?z43k~=L|">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD60">
+          <block type="text" id="!ma%_%Ta`=.rEFnn6gvs">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD61">
+          <block type="text" id=":HNQ!Dm*1#V*2|fIq3y9">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD62">
+          <block type="text" id="MX^*hfzj={a/00}=(Nj8">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD63">
+          <block type="text" id="ms.?DrE|U2V!n/z*:ufJ">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD64">
+          <block type="text" id="k2X/js5ec9+!{B/.xHMf">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD65">
+          <block type="text" id="OFGSZpZI=8!P[feH4E6}">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD66">
+          <block type="text" id="h[r+4gPHrTn=[XlNi=`X">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD67">
+          <block type="text" id=".5VSG)m3f:4C84b*?;X9">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD68">
+          <block type="text" id="+Il5+);.bU_VbK#-dRh6">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD69">
+          <block type="text" id="=/TA]35t{LahDcNf.Md8">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD70">
+          <block type="text" id="fvv9HTCOP4r,HGC,%z?|">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD71">
+          <block type="text" id="jF@xg?G9)m6N!b[qe%Ye">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD72">
+          <block type="text" id="C#JS(ik6%@IeYk@6Gh:S">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD73">
+          <block type="text" id="b/2SebK#g1tbzQF6_pTY">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD74">
+          <block type="text" id="BQ(xQUz(TMGc!`OuW.e~">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD75">
+          <block type="text" id="9oYw!+]C;;#Jv0WK.jSY">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD76">
+          <block type="text" id="EX~FfpXnwJO(4eEel@1h">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD77">
+          <block type="text" id="+{.W:z{ko[66KE*o.[o3">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD78">
+          <block type="text" id="9r:Qed6;#Zm,fmj7Iu,:">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD79">
+          <block type="text" id="WHGGCF^g,NP%;.`T5a_U">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD80">
+          <block type="text" id="(LMQ;na?MsBBR)_cq^!+">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD81">
+          <block type="text" id=";P.g2xN$GKPpn;tDR::Y">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD82">
+          <block type="text" id=";.3YmC]4=cRM:70^_c|.">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD83">
+          <block type="text" id="m)X-`GAMOZ#EIUs5f-5Y">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD84">
+          <block type="text" id="_y03pOt;^*b1%`1+RB94">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD85">
+          <block type="text" id="Zc|07?b0.|s9lwL4}`}J">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD86">
+          <block type="text" id="hm#3S=~^eE4{i+*l2g,/">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD87">
+          <block type="text" id="(8f6{1FM^Bqv@y*TL/FO">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD88">
+          <block type="text" id="..-)G=yD-_SegS:HueKJ">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD89">
+          <block type="text" id="!w.kxX|8E8%^Nk1ldU*I">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD90">
+          <block type="text" id=":58.A{$#@*Bp*W`khIC#">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD91">
+          <block type="text" id="F[8(b:lt#n{|{Q1K+~E)">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD92">
+          <block type="text" id="-~t!dw[+_~YhpCAVv]LQ">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD93">
+          <block type="text" id="UMcpen3k#9C;a+qy0,iu">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD94">
+          <block type="text" id="o5kV=j]},zbAf!_##2qQ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD95">
+          <block type="text" id="~+{-|70k/9-}jCORc#hN">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD96">
+          <block type="text" id="nk$qfcPJvX7sxE]JtEeJ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD97">
+          <block type="text" id="jU4EC$fCqqg;}kGa~(`3">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD98">
+          <block type="text" id="./+Jm#rXKyGzp?;@ZEtk">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD99">
+          <block type="text" id=")8Bbgc$=7#v:]Vwn~SiD">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD100">
+          <block type="text" id=".-624~%ANFBz_+z#Xu%H">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD101">
+          <block type="text" id=":pEsl={#z1Mk:=fFbb)g">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD102">
+          <block type="text" id="206jXd0!^=EhXoX.741{">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD103">
+          <block type="text" id="Z*z$Ib{.1,6y-7x{=igZ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD104">
+          <block type="text" id="BoQf6tK(u`/x/6a?aJf|">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD105">
+          <block type="text" id="B_%|mGqjVss#vCSmM@+=">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD106">
+          <block type="text" id="YWOJ%P~i:3l%jUpXm^=~">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD107">
+          <block type="text" id="2ep}m#%RG7jbPICQdjCa">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD108">
+          <block type="text" id="jfjp0*1{KbP]YG?[8:vW">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD109">
+          <block type="text" id="G5%3]Nm_BhDP]w_w-$xj">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD110">
+          <block type="text" id="?BKM^0CL,I-Gd=m7GaQO">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD111">
+          <block type="text" id="l0EU8Aim]mO6v1t,q|Kg">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD112">
+          <block type="text" id="H-n:NV__JE1EYC7@%%Xh">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD113">
+          <block type="text" id="rkl=rVEHa]-uZgLW?l:1">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD114">
+          <block type="text" id="r47I9=Hz-4heKAei6K6p">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD115">
+          <block type="text" id="Bmyo^8M2_ZLyCzaYWR/6">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD116">
+          <block type="text" id="2[kULNoib.r!`Xpy`kU9">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD117">
+          <block type="text" id="z78__jW4_2B_s:7tLR^8">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD118">
+          <block type="text" id="aY62E%YfV%rq=Dg=T*@m">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD119">
+          <block type="text" id="?6QN~pdyp^:x$?lh+:v?">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD120">
+          <block type="text" id="ISbi[}kr{3*]~t#Fvd^u">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD121">
+          <block type="text" id="gEg)w4kVBL%+aGPBKXF{">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD122">
+          <block type="text" id="*|:@+tIi24E;8w;DunJl">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD123">
+          <block type="text" id="wM1a}Xe~.iHpO`ff0GKf">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id=",h-g]CU}W2:^E~R=]{m0" x="1215" y="-720">
+    <field name="NAME">Pilihan_c</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="uy87?g=?x,Ak9iD2V6WQ">
+        <mutation items="124"></mutation>
+        <value name="ADD0">
+          <block type="text" id="4;RoJ#OQ3J80^M%iy`sA">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="a=_f;]#Mqi7/)2]#FS)g">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="3vIRdEpkR7X%UyU=)i!^">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="If?DPwBGnE;)g.Q)Q2I7">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="X})+z:HH^942xG/?ln/2">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="|~7dOQG!1lOw_v)cautV">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="oY|et0ZWIyxxdtWzaL,G">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="C|=TYqCo5exl{Vlp07z-">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="rsBI|UJGQ}I7=4tRnrh5">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="M`i#1UIqMzI3Noz^%TqL">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="!?K8n3)zif/G8S0W{{bZ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="V6E-6V#fcN,RZW:zE0Sb">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="8{7YzWb)o4^L4GF@HC+)">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="h,9CUyC56@N;`7zGjAf(">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="3~D|tWgxf]jlsOsW[17:">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="]23v,R0Sb5P0cacPD5%:">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="BUJq,Fd0I{NyEh`Yk3$-">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="mvzk%{)]${!#Ln9j7p#d">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="}-N?k.t!ER8Q@i?5SXLJ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="8M`d8_%+;v(G/H_+bWDS">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="v426~*+Q[Uj|YC?My^ow">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="A8Uu^?(qV4Q(,;p2z.bc">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="$uZy?NMQ[~!ANG)hZ4mL">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="k)OkG+`aVs/{vzI`=fPV">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="?4bLt9f-HhqY=gy#d#}*">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="|{Vn~{5YXTGO(Yclg!#h">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="XCu0#ZwK4sVY7YW{_.Qa">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="K6xYg`@Wn#tlZ`zHHL)w">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id="~xBe05DDUpmEwH`E5=[S">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id="adyi?yac~]aEB$?4k.PO">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="X/ddWlw081Oz{1-FTjUf">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="yf}2]3*V|lhs0@_]Jl#A">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD32">
+          <block type="text" id="[!BeGlc;q_}+tsZ8)T{6">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD33">
+          <block type="text" id="Q,v+B~:JC)FSrUilwpG~">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD34">
+          <block type="text" id="G7ihiU:PTfh%+x2G)U:K">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD35">
+          <block type="text" id="/04]Ngqo^wL93thIxu,6">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD36">
+          <block type="text" id="W^HHuK*ns[jxf]rP_P($">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD37">
+          <block type="text" id=",S:P|AH[Ct-%cBLAFbkJ">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD38">
+          <block type="text" id="cH]qB[7d|[0Oj%ZR+H4d">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD39">
+          <block type="text" id="S+GRDq{7{Z@wYYgdcKqP">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD40">
+          <block type="text" id="`h4sl?rUNdbuzx~MM5Wi">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD41">
+          <block type="text" id="*GNy}|@DBf!dNc!TCVH?">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD42">
+          <block type="text" id="{Wuii6C0g(k@qa.Q!XoM">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD43">
+          <block type="text" id="b[e}X6UfMy-@}ca!c:(o">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD44">
+          <block type="text" id="e%M$.t.S$tFHe^^BkSu.">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD45">
+          <block type="text" id="kkLH*c_3Y{yNym8-lBI$">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD46">
+          <block type="text" id="RiW}X~5WkdW8qpxVSIIU">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD47">
+          <block type="text" id="=Bio8XYH30!b-gj1?Mbb">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD48">
+          <block type="text" id="hi{;3eRVuXXj5xxX(hFS">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD49">
+          <block type="text" id="8w`-:z??pkjX,~qAW0kN">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD50">
+          <block type="text" id="X_xBs6hlHTOYdJWJvhYi">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD51">
+          <block type="text" id="AlJq/C2cBeMlx2QPg{?W">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD52">
+          <block type="text" id="sQw?li-_Vy*5y(U!p:er">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD53">
+          <block type="text" id="~e]NC)[Am)MB6OA}B@N%">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD54">
+          <block type="text" id="HzXQJT/~gi@LF``Vpzci">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD55">
+          <block type="text" id="_:XQDttMR~4_%OnGbZ3%">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD56">
+          <block type="text" id=",DcW+#C]@XmJdgC:[(*G">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD57">
+          <block type="text" id="^p0OH_B%;ml1CG3LAL%^">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD58">
+          <block type="text" id="Va)QcVg6]q?b$:]liyXA">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD59">
+          <block type="text" id="5]W^30@Dsc_=k)QX^$Sz">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD60">
+          <block type="text" id="rmmO8saG%wNW7teLWMtI">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD61">
+          <block type="text" id="m?)!SMrSg_ft!rN*NhYl">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD62">
+          <block type="text" id="^6Gb#sVVq^Dp/pnf)}[K">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD63">
+          <block type="text" id="o;Y7=Sqd}mv#hi0w+*3V">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD64">
+          <block type="text" id=",tm$YKXs2rmvZ#PNSBm:">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD65">
+          <block type="text" id="0zli/{+Yr0C)*{w4Az19">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD66">
+          <block type="text" id="@dG{t;0iBY=vO`o^1@nx">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD67">
+          <block type="text" id="YhX0k[c7Fn,5fS9HFP#c">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD68">
+          <block type="text" id=")9`Tv}YxiEQP@xL7[uo`">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD69">
+          <block type="text" id="~hhi|`*OMQYly/#rO4i[">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD70">
+          <block type="text" id=".bG9](Z3;Hm.oWsz23.w">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD71">
+          <block type="text" id="i}5MEx+^_z/$t@aA:3eF">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD72">
+          <block type="text" id="Ph_kX^ch4{ybg(g`]CdT">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD73">
+          <block type="text" id="u?8.RBanfaCi~:g%,e:$">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD74">
+          <block type="text" id="R}D2-+=(6.*P54x+,xzQ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD75">
+          <block type="text" id="mTRk~c2%PHLR!GD7)zq|">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD76">
+          <block type="text" id="tL2f.L.E+CH{M5kR2OX,">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD77">
+          <block type="text" id="FiJpK*s0mRLn:RL(QQgb">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD78">
+          <block type="text" id="K7K-kgwnD%_D%s/)v-7w">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD79">
+          <block type="text" id="^j717aE0lH6o~OMV`K]D">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD80">
+          <block type="text" id="[6=5R{|#=t2mSNVVcsw*">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD81">
+          <block type="text" id="_qgDe-AD)iuH0MUY.x8G">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD82">
+          <block type="text" id="(rg@;![dRdK[gnp-uOwe">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD83">
+          <block type="text" id="ZCo%G$2/]e|gZ83]j!5v">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD84">
+          <block type="text" id="[$mj~RX4L=Z:myL_j$K%">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD85">
+          <block type="text" id="TE%~Eh3:GQ(i1Y5|Jdu[">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD86">
+          <block type="text" id="hQP$dM(Oxq:?@lruCe_z">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD87">
+          <block type="text" id="Q2jQGlo07-U~hU2Xn[rq">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD88">
+          <block type="text" id="D+!ZA@ldV6Zt[2Q%;EFi">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD89">
+          <block type="text" id="CA)ygJ7@SWk0A=5F)WpI">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD90">
+          <block type="text" id="MvI$Gf#YYb@kCK(=@4{m">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD91">
+          <block type="text" id="Kx,SuGjkt5B-EMDk^8kK">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD92">
+          <block type="text" id="=`N)WO,j4y[Bd1OrVYTQ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD93">
+          <block type="text" id="EfTc#6h*mqup8sv+N;IS">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD94">
+          <block type="text" id="Y{+6uO1r1y);YV;+$0YO">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD95">
+          <block type="text" id="v%vJ*~U[]];3zMUq;a|q">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD96">
+          <block type="text" id="j%EJEDEK)?R}{Co1J]l=">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD97">
+          <block type="text" id="59waRv1LNym6z!jy_f!:">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD98">
+          <block type="text" id="D1)3{RPCo]bK~01[75+4">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD99">
+          <block type="text" id="1esd)E^F8cKa{DHaIZ?@">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD100">
+          <block type="text" id="B|ua=w6bHkub_8kD,!Z-">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD101">
+          <block type="text" id="U#RB@@x.w2Yg0*~^c2~T">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD102">
+          <block type="text" id="pB5(2^/s_AFyg79YJhsh">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD103">
+          <block type="text" id="oNs0P7`K0Q/rSxN:*s*{">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD104">
+          <block type="text" id="ciUn0Umx8cJVPpC[Z(0w">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD105">
+          <block type="text" id="YN2mY5{~68^*)#:=|6-%">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD106">
+          <block type="text" id="z[Czt~@Y5wxiTY]C.~8(">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD107">
+          <block type="text" id="_lp$O!2ynF9:cj53Z3bT">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD108">
+          <block type="text" id="?tL-nVB@Z!iCb+k,!tXf">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD109">
+          <block type="text" id="QYe_@C$lf.D(H9X+.Diq">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD110">
+          <block type="text" id="r^7aJ`i?==lb;zvN.X#b">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD111">
+          <block type="text" id="GbKBPoy=M6l|RE+G/j{z">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD112">
+          <block type="text" id="d!WiPex;*ODqrj33_-FY">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD113">
+          <block type="text" id="bx]Lki/).6k!k]4AX0d!">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD114">
+          <block type="text" id="JXAok7-=x5a2]jlZKN,N">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD115">
+          <block type="text" id="JPH;2()4n==90A@,EJKk">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD116">
+          <block type="text" id="x`$VUetde|1*XYaL!VZJ">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD117">
+          <block type="text" id="OYOeh;A!Weg(xkgl5y=9">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD118">
+          <block type="text" id="2o4Ulw|BCdzl+ABIca(5">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD119">
+          <block type="text" id="-GHWXtvd+q[+-XYtlj`x">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD120">
+          <block type="text" id="{]Ncc,$hUc[-jW5uzb^=">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD121">
+          <block type="text" id="_-i3!K^3#zkLI.O|WMe.">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+        <value name="ADD122">
+          <block type="text" id="6*)dXmX_DpDAQ=krV^3?">
+            <field name="TEXT">Kurang setuju</field>
+          </block>
+        </value>
+        <value name="ADD123">
+          <block type="text" id="h;nX`3nx9b,Jg8etl9o/">
+            <field name="TEXT">Setuju</field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="v^na;ftU4jX^iezJsQOw" x="1793" y="-723">
+    <field name="NAME">Pilihan_d</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="*eJ`0D#C0eRFqv6?:xjE">
+        <mutation items="124"></mutation>
+        <value name="ADD0">
+          <block type="text" id="B`mGNQnl}^s8p+$N,V4I">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="m*aof`g}[hL!uC_VFq#D">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="-#FkXcJFS|w`s_]z`!/6">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="$D*WnYr*_|`IPw}Ps?g-">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="wXZ^#*fS?kT-oLUeSjA7">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="x?U6Z@Y;*%uxj5|L^A,K">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="D9#g6qU+Z)x[}*%+eYB+">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id=".$tz|^)OS8NW^xP{g:[]">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="CD4$=LLH=Vpe/+O-2lV?">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="sOJ9G2!upAj!w[~5d0]$">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="-TK@bwS{#Kk^VawCU[^7">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="cZJ^{{HVaZ}*fO(XjU@a">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="s3tEgCU2upZrksT3cZ7k">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="S;%zpsXlfT0KQ$~MMev$">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="9fHk~hF[n[5/fJjF::1R">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="085pr@4CUy4%BspS,#hl">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="o:Ygu:P.||EfyKm`YNjm">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="zp1^q-WDPn%WN~B];S$k">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="xhiG8!iphW#wcLhYvEPx">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="(G5dsb~xs$9^d|Syp]2T">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="w|mU/7`XA@5:Jj~p{8BO">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="GvC16*;LvV6@5)OJB|ag">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="@Yn6$L.3t%wVrG5gc)SE">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="gFw}cScvy7f~?6Uh|2J/">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="]KdmyCN+z%A}bV7FaGjf">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id=")ezi7o|GZEx(vp#d/,3c">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="M%r9yH:J7+vpd7-%:8Kx">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="a^4~T~DHo2TTN4OYQcO.">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id="}!hz*nq1*!XijA:`6%bI">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id="$[sQh(uWkO*GK(*Br0IX">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="fI6G7]/^[ca^}d0GF!Ue">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="0!huX1%?B@+31mP|m*$g">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD32">
+          <block type="text" id="7LB4i_r?LO0I$s#0zB)_">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD33">
+          <block type="text" id="l7VY+=+f:qk9:F=oFi7A">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD34">
+          <block type="text" id="Z*RqUMu!9]ar8_vrD,fa">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD35">
+          <block type="text" id="3l?jz5T@y,p]Qd%|1Jih">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD36">
+          <block type="text" id="3sLYh*1}1@cnVE30lDvd">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD37">
+          <block type="text" id=":nFCL5O^i-(Fs|C_=v`*">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD38">
+          <block type="text" id="]]T,}6wZTKJd~9/!T23e">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD39">
+          <block type="text" id="Cp1@+g]YI1fIjqsuNqsX">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD40">
+          <block type="text" id="3nP93FO7#NA,;N]1FZdW">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD41">
+          <block type="text" id="Ya_6v@1Zw~rocF`.M|9T">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD42">
+          <block type="text" id="*s5-^vTwG!%833Xgouk$">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD43">
+          <block type="text" id="WI=^RIQEBpUlWslF5%dG">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD44">
+          <block type="text" id="_uQa;?SiOuh^pzS8FMoV">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD45">
+          <block type="text" id="YM?-/fy_-N[I5s{SLb5^">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD46">
+          <block type="text" id="A8$Qv.jI`CJt]hB}2pt@">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD47">
+          <block type="text" id="im9D_B8L-z#E?zQO(E*K">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD48">
+          <block type="text" id="W%:g}~aaYg+1CplTU;=O">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD49">
+          <block type="text" id="|tgKr(sz]sQ3oE??WfgZ">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD50">
+          <block type="text" id="u}()2t/a@4kTk,^P~7dl">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD51">
+          <block type="text" id="C`uYy%P17/IKn%vsw}:@">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD52">
+          <block type="text" id="W1sR;$VhAU)qNw|gS#NV">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD53">
+          <block type="text" id="iyAt9N}wTjo1nn@,{-7.">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD54">
+          <block type="text" id="_:8|dEWSegh4_?3-lZv(">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD55">
+          <block type="text" id="#@qb9$621Kh/IBN]y62Q">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD56">
+          <block type="text" id="CM}}{i;sVm:$4L]]%y.l">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD57">
+          <block type="text" id=":QM^vQpjMfLp_].I`q9z">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD58">
+          <block type="text" id="+/aj/_i9vdR6^g6(ZEz-">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD59">
+          <block type="text" id="2@l[Z%#a53}/l8G4CI$O">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD60">
+          <block type="text" id="adg#XllsmjuA[ak-)o_H">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD61">
+          <block type="text" id="NMw03UAwItn3l-k?S*|#">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD62">
+          <block type="text" id="SP:ffq.laDPeHsLGLc_g">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD63">
+          <block type="text" id="f`@8LkJ[Lc6hl!T4T~37">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD64">
+          <block type="text" id="^qvdxmKrk7AC;|zszGi/">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD65">
+          <block type="text" id="$0N1,|hhhF-lxSPb)S(Y">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD66">
+          <block type="text" id="}.+!_$GQl/epf0pN?p4l">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD67">
+          <block type="text" id="zzA#R0~#{bc{r,Lmr]_w">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD68">
+          <block type="text" id="l6=!d|GMse;[q`HDa(kk">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD69">
+          <block type="text" id="v4XmlIx!NZwkCE~1O/_d">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD70">
+          <block type="text" id="QjD(^wk[EKN[4?/q0;N6">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD71">
+          <block type="text" id="*7XHmtSXStTdWy1xYSC?">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD72">
+          <block type="text" id="WBY!/O{wmFXCjKtMxu#Z">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD73">
+          <block type="text" id="be:@]JpoqzSbk}D6N(^:">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD74">
+          <block type="text" id="mf?n2ubbe9D`XmB}3lwE">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD75">
+          <block type="text" id="hat7+e/l$Q=hTp@=!,c%">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD76">
+          <block type="text" id="(U3.rZONOk%q|4_@F/uc">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD77">
+          <block type="text" id="jzT%N1F7K8pES6q#TVfD">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD78">
+          <block type="text" id="[!.w[CzW:?^g%s;S5T}N">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD79">
+          <block type="text" id="*.~z6JqV|X4ekidaJ~5`">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD80">
+          <block type="text" id="hHPnLb!c4*7hu42ZSqQ-">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD81">
+          <block type="text" id="bTU}2;K_BV`|rW!y2d7z">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD82">
+          <block type="text" id="sLYVF}b2)P1IJSE}H2N-">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD83">
+          <block type="text" id="%+C5s544z(.gG$5/a,WM">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD84">
+          <block type="text" id="+$t~:@kP*{kl*356nGQ9">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD85">
+          <block type="text" id="iUr}%s=pZ)g/j#1S=vZZ">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD86">
+          <block type="text" id="N!F$xKH!am_%zXayI*u[">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD87">
+          <block type="text" id="V[~(~(Bc-kCj3##Xi[5e">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD88">
+          <block type="text" id="Ru{)XLbNerJ1Cr.n%0_f">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD89">
+          <block type="text" id="yBVwo8)qmhpb|?2dty(f">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD90">
+          <block type="text" id="bO,.0rp^Y)w#kqHew`!9">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD91">
+          <block type="text" id="(fyTnl%pF]-5.83;l_X|">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD92">
+          <block type="text" id="82~VHmg?W`4f,%NeN}/L">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD93">
+          <block type="text" id="BNLagTQr[ydF:Ocr_=c7">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD94">
+          <block type="text" id="@=EV4;l=6L+14o+GsRUn">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD95">
+          <block type="text" id=";a$h7h;4dQ=??*[9wL:M">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD96">
+          <block type="text" id="Z3:O/]PoM::(;$gQ+Dh8">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD97">
+          <block type="text" id="3@tCV5cfcW?9zC6f.w#4">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD98">
+          <block type="text" id="bewdH3#+m-9+l(Zc.q*n">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD99">
+          <block type="text" id="5;$6jCIx^q][YLtGdmdn">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD100">
+          <block type="text" id="c@u%;Q1@F+drbK`r//3V">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD101">
+          <block type="text" id="mbR2fN5Q2??sasC?Ba3@">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD102">
+          <block type="text" id="N,%c.u*AA(nGmXk36|,t">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD103">
+          <block type="text" id="8w(+W-55kOBwz3G1Jz67">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD104">
+          <block type="text" id="ihI;1Goq?i}2Tr4*SP#H">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD105">
+          <block type="text" id="-3b+wDS,euGd85Are{rD">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD106">
+          <block type="text" id="XJ{0(S{@PU{PJSINEifz">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD107">
+          <block type="text" id=":Gn[vo807KwIoK;.ue!s">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD108">
+          <block type="text" id="4btlbm^+Idx*TxI@*af|">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD109">
+          <block type="text" id="^H@sOH4^VcguBjm10tC,">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD110">
+          <block type="text" id="A9V^xLIhUXcVxY4Z[/x|">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD111">
+          <block type="text" id="-eOw2MNXW=_hoq!boDlW">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD112">
+          <block type="text" id="~zv-D_Y/[jDZS~AxFp,I">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD113">
+          <block type="text" id="VKgJ*1j(rb;$lmFX3)u#">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD114">
+          <block type="text" id="Zxz7($eZQOy.)tV9NnSe">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD115">
+          <block type="text" id="8;-a1F}+hS[SY2AEcW)c">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD116">
+          <block type="text" id="GVw2QlE2Q_d!cU+L5qCW">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD117">
+          <block type="text" id="=lBueOLhD5YAgL^)ZS;m">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD118">
+          <block type="text" id="[NMoK9^O4#l`[ZVH;d4p">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD119">
+          <block type="text" id="w[W9XhA$v$oN=(7jRPv}">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD120">
+          <block type="text" id=";;D1?aa{)AQ/m.qIZ~Bl">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD121">
+          <block type="text" id="bI[FzdVGp!B,O,UnBSkg">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+        <value name="ADD122">
+          <block type="text" id="[a(^,vu*+yIz%K}/7C-d">
+            <field name="TEXT">Tidak setuju sekali</field>
+          </block>
+        </value>
+        <value name="ADD123">
+          <block type="text" id="bG:k2/}5H8PUPb:Gzyjz">
+            <field name="TEXT">Sangat setuju</field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="N$ugG2_Mpk5BX8cPC{[%" x="257" y="2536">
+    <field name="NAME">index</field>
+    <value name="VALUE">
+      <block type="math_number" id="r-7~hlhsd9PqFA7#u3cY">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+  <block type="procedures_defnoreturn" id="*BUGbBs3cRDUGPR^6:EP" x="354" y="2593">
+    <field name="NAME">Soal</field>
+    <statement name="STACK">
+      <block type="component_set_get" id="Icu,pgZ~*MtIllV/aP#.">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text_join" id="8){bFG0IxxtIaY@~f(S^">
+            <mutation items="2"></mutation>
+            <value name="ADD0">
+              <block type="text" id=":76Y0[p3!lftDZ=2i^eP">
+                <field name="TEXT">Soal ke-</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="lexical_variable_get" id=".=Wi-taF+S.2O=;8Iluh">
+                <field name="VAR">global index</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="?Z52,UF$^Oq{WUKdW]!]">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label3"></mutation>
+            <field name="COMPONENT_SELECTOR">Label3</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="lists_select_item" id="?wnLJc30b-533*~*:3`+">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="9hjvXJc7Q6/.%EDe?-Cv">
+                    <field name="VAR">global Pertanyaan</field>
+                  </block>
+                </value>
+                <value name="NUM">
+                  <block type="lexical_variable_get" id="e*,c@0Iu(swYg}P?C}M7">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <next>
+              <block type="component_set_get" id="J2PSc}k8X*{8wtGMyF)y">
+                <mutation component_type="Button" set_or_get="set" property_name="Text" is_generic="false" instance_name="ButtonA"></mutation>
+                <field name="COMPONENT_SELECTOR">ButtonA</field>
+                <field name="PROP">Text</field>
+                <value name="VALUE">
+                  <block type="lists_select_item" id="Cl/zv=1F~X6AG$nPNg)F">
+                    <value name="LIST">
+                      <block type="lexical_variable_get" id="v+F-MN]/gDy6i,NH|$Dl">
+                        <field name="VAR">global Pilihan_a</field>
+                      </block>
+                    </value>
+                    <value name="NUM">
+                      <block type="lexical_variable_get" id="3JnG2x29(bL4]163}X`W">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <next>
+                  <block type="component_set_get" id="/`t|U/qKIwu,=/lVa|pJ">
+                    <mutation component_type="Button" set_or_get="set" property_name="Text" is_generic="false" instance_name="ButtonB"></mutation>
+                    <field name="COMPONENT_SELECTOR">ButtonB</field>
+                    <field name="PROP">Text</field>
+                    <value name="VALUE">
+                      <block type="lists_select_item" id="fiksB?*at`JN.Pne;Yc=">
+                        <value name="LIST">
+                          <block type="lexical_variable_get" id="-g)OdG^n$ZnA3mjyeux0">
+                            <field name="VAR">global Pilihan_b</field>
+                          </block>
+                        </value>
+                        <value name="NUM">
+                          <block type="lexical_variable_get" id="DQw@yyd[i[oJF!bz^g!=">
+                            <field name="VAR">global index</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="component_set_get" id="~V.`8Nk1q@qTeeBOH!/C">
+                        <mutation component_type="Button" set_or_get="set" property_name="Text" is_generic="false" instance_name="ButtonC"></mutation>
+                        <field name="COMPONENT_SELECTOR">ButtonC</field>
+                        <field name="PROP">Text</field>
+                        <value name="VALUE">
+                          <block type="lists_select_item" id="F;5DS`|gNTO9!dUWk`0P">
+                            <value name="LIST">
+                              <block type="lexical_variable_get" id="PWt+sR=ut3n~:n0=iHlz">
+                                <field name="VAR">global Pilihan_c</field>
+                              </block>
+                            </value>
+                            <value name="NUM">
+                              <block type="lexical_variable_get" id="[6|n_NK}tVL%d/c#)=|q">
+                                <field name="VAR">global index</field>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="component_set_get" id="UxHuj^H~.]2RJWN:t7-T">
+                            <mutation component_type="Button" set_or_get="set" property_name="Text" is_generic="false" instance_name="ButtonD"></mutation>
+                            <field name="COMPONENT_SELECTOR">ButtonD</field>
+                            <field name="PROP">Text</field>
+                            <value name="VALUE">
+                              <block type="lists_select_item" id="`FLW,g()2[O?PDS$|T47">
+                                <value name="LIST">
+                                  <block type="lexical_variable_get" id=".0pg44ktM~/3l;zWL%J;">
+                                    <field name="VAR">global Pilihan_d</field>
+                                  </block>
+                                </value>
+                                <value name="NUM">
+                                  <block type="lexical_variable_get" id="U;X;+CQ.;}GpX@d{13EE">
+                                    <field name="VAR">global index</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="hmB;.B/UNK8bKwR/CR.]" x="987" y="2693">
+    <mutation component_type="Form" is_generic="false" instance_name="Test_EQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Test_EQ</field>
+    <statement name="DO">
+      <block type="procedures_callnoreturn" id="]rWo*PXIca%V.nK~@:Aw" inline="false">
+        <mutation name="Soal"></mutation>
+        <field name="PROCNAME">Soal</field>
+      </block>
+    </statement>
+  </block>
+  <block type="global_declaration" id="%POcO]h-yUhF{$PBN@u{" x="260" y="2964">
+    <field name="NAME">Score_EQ_Anda</field>
+    <value name="VALUE">
+      <block type="math_number" id="ZKZTX}n!z|BBoIiE4,D9">
+        <field name="NUM">3</field>
+      </block>
+    </value>
+  </block>
+  <block type="component_event" id="6lq:-}J!Yo9z39jV40e3" x="146" y="2999">
+    <mutation component_type="Button" is_generic="false" instance_name="ButtonA" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">ButtonA</field>
+    <statement name="DO">
+      <block type="controls_if" id="{os0QMGiJ%]lT|`DNhSl">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="Z1G9},B8ikW4(K2E)S;%">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lists_length" id="M@|W/Dp|6N)fQmTZWlk!">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="|5ib1mCL}4p^I_]Tdq4.">
+                    <field name="VAR">global Jawaban</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id=";P(5-Vd/LaHql=KRd4}q">
+                <field name="TEXT">3</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="lexical_variable_set" id="}jcmXe^N?)7,uK*jv1Kx">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_add" id="6w_}T{n@iBTzrP)~9F#}">
+                <mutation items="2"></mutation>
+                <value name="NUM0">
+                  <block type="lexical_variable_get" id="=1Q?MfGA2X#~wxI`ofxa">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="NUM1">
+                  <block type="math_number" id="j4({0rH$95yB46ZcdLN$">
+                    <field name="NUM">3</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <statement name="ELSE">
+          <block type="lexical_variable_set" id="M-k~{zx2}XoUu{}4}!XW">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_subtract" id="`XZm.]d)](yc5*Q+NrR8">
+                <value name="A">
+                  <block type="lexical_variable_get" id="7ctx!9t$)jcHq|9U,e|S">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="e,T4o_fZ9JpWs](Z?w(^">
+                    <field name="NUM">3</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="07+t~K=C`ljP@|ej`.6Z">
+            <value name="IF0">
+              <block type="logic_compare" id="Ht:[CsyFGT_/NHxtdTV6">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="zo@PZ!]p=?6{%tL8}pA;">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="uXEs~OTlul,W`VGwihX0">
+                    <field name="NUM">124</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="controls_openAnotherScreenWithStartValue" id="`50=pD!oorv?Gc8Tp4YC">
+                <value name="SCREENNAME">
+                  <block type="text" id="b-3+e7XQct7?zY(1$G`d">
+                    <field name="TEXT">Tabel_NKHM</field>
+                  </block>
+                </value>
+                <value name="STARTVALUE">
+                  <block type="lexical_variable_get" id="@AWxp1{U7rX8$e[Vz[6!">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="controls_if" id="PhVE95Z@F.E3f*GZVnVE">
+                <mutation else="1"></mutation>
+                <value name="IF0">
+                  <block type="logic_compare" id="BH*U=hDf:t-DaxR,t!Ne">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="lexical_variable_get" id="XRV5NH+;[{)zO]Yuu+1L">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_number" id="}HphFI@M:cb.{I^[`+|W">
+                        <field name="NUM">124</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <statement name="DO0">
+                  <block type="controls_openAnotherScreenWithStartValue" id="ha]S.J!BW$%U;pGRI=O:">
+                    <value name="SCREENNAME">
+                      <block type="text" id="MC`cG*#Xq/zX9G-bqPOm">
+                        <field name="TEXT">Score_EQ</field>
+                      </block>
+                    </value>
+                    <value name="STARTVALUE">
+                      <block type="lexical_variable_get" id=")]jc~Ty3wXkUfFrw,l8*">
+                        <field name="VAR">global Score_EQ_Anda</field>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <statement name="ELSE">
+                  <block type="lexical_variable_set" id="~57}tF+O6NpV@9egCt|b">
+                    <field name="VAR">global index</field>
+                    <value name="VALUE">
+                      <block type="math_add" id="?;0R~?]=h+Bg]z9Er`WP">
+                        <mutation items="2"></mutation>
+                        <value name="NUM0">
+                          <block type="lexical_variable_get" id="N:L)uTQ=#Fb1l2}@75jm">
+                            <field name="VAR">global index</field>
+                          </block>
+                        </value>
+                        <value name="NUM1">
+                          <block type="math_number" id="g|[ne7gU)}mlfI*$;}%2">
+                            <field name="NUM">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <next>
+                  <block type="procedures_callnoreturn" id="-rt/gAq.dX^Z(Q^vu/iY" inline="false">
+                    <mutation name="Soal"></mutation>
+                    <field name="PROCNAME">Soal</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="cj0:X3P1!K`C/kSt@JkS" x="853" y="2999">
+    <mutation component_type="Button" is_generic="false" instance_name="ButtonB" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">ButtonB</field>
+    <statement name="DO">
+      <block type="controls_if" id="E;754%JNq;:/6Qt|lH+v">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="6TjxUus`{*%=ap:Nl)je">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lists_length" id="(wOt]4Ic:-AWXAsj%3_(">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="od:WV=6q]F.eizaDlC0K">
+                    <field name="VAR">global Jawaban</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="X)5nRR`3y=m.Aj@M/yE$">
+                <field name="TEXT">2</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="lexical_variable_set" id="])`kfQCONo;so4w$FM-R">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_add" id="e-H4HD:?l6-PP]3_CE7f">
+                <mutation items="2"></mutation>
+                <value name="NUM0">
+                  <block type="lexical_variable_get" id="0`uI$X2)x]_#)u!#?iMB">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="NUM1">
+                  <block type="math_number" id="BN)`*K(Q@-R#9d7#e0~N">
+                    <field name="NUM">2</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <statement name="ELSE">
+          <block type="lexical_variable_set" id="%;F(TiVJ3HzTdC(KkXpz">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_subtract" id="kY4ejEp6RA*4F{6MLmhC">
+                <value name="A">
+                  <block type="lexical_variable_get" id="dy/EGI`cgh%3DK9t}fmh">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="GuTeG$d4-qf64UI+MqiS">
+                    <field name="NUM">2</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="OXz~}|wQ9M|4=vl$v{^Z">
+            <value name="IF0">
+              <block type="logic_compare" id="6rE|H:c1b}nxYOa~}`Z,">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="X0R94.A?Hb;[IuR813J%">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="U60FS!`zYWSHl4-@4qDQ">
+                    <field name="NUM">124</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="controls_openAnotherScreenWithStartValue" id="9$;tq1J?tp~]7B~M^#tY">
+                <value name="SCREENNAME">
+                  <block type="text" id="b+9=q1D2qY=d]$]r0NTi">
+                    <field name="TEXT">Tabel_NKHM</field>
+                  </block>
+                </value>
+                <value name="STARTVALUE">
+                  <block type="lexical_variable_get" id="v8;mc/)uAxgKc#ImCMSP">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="controls_if" id="s@:G}$xWZb[0Boc=`|k$">
+                <mutation else="1"></mutation>
+                <value name="IF0">
+                  <block type="logic_compare" id="vS]PvlK.pPC@9,`y4%j%">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="lexical_variable_get" id="H!vhLu~+PwbSsJCpvZu#">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_number" id="F9F-nv+(f6T|#Bu=2^*P">
+                        <field name="NUM">124</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <statement name="DO0">
+                  <block type="controls_openAnotherScreenWithStartValue" id="o810@;nX8-[ugQh[|r[1">
+                    <value name="SCREENNAME">
+                      <block type="text" id="]Sv#[Hfof2q/ys4x$P7q">
+                        <field name="TEXT">Score_EQ</field>
+                      </block>
+                    </value>
+                    <value name="STARTVALUE">
+                      <block type="lexical_variable_get" id="*uYtiUCrRi%{bk!%2[J?">
+                        <field name="VAR">global Score_EQ_Anda</field>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <statement name="ELSE">
+                  <block type="lexical_variable_set" id="X?0jlspoh!F*CW9}@mqg">
+                    <field name="VAR">global index</field>
+                    <value name="VALUE">
+                      <block type="math_add" id="*JDh#QzQ[!0kXOReaouh">
+                        <mutation items="2"></mutation>
+                        <value name="NUM0">
+                          <block type="lexical_variable_get" id="kW!EVGF@%w_yO2.EuYP_">
+                            <field name="VAR">global index</field>
+                          </block>
+                        </value>
+                        <value name="NUM1">
+                          <block type="math_number" id="d0k%9a35[UmdCFla@@64">
+                            <field name="NUM">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <next>
+                  <block type="procedures_callnoreturn" id="@|p]{[KFQ;E8VoZOLx2o" inline="false">
+                    <mutation name="Soal"></mutation>
+                    <field name="PROCNAME">Soal</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="X@@|xFys@1kz0IjmH@)e" x="1569" y="2984">
+    <mutation component_type="Button" is_generic="false" instance_name="ButtonC" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">ButtonC</field>
+    <statement name="DO">
+      <block type="controls_if" id="blGtu6DzdZeNm7yBTevb">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="/FI%nS1-R~{*-pwaa]CV">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lists_length" id="@k@SNjr=d8(Gi9Ik.J9Z">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="jxUR$Za[}^#y_7LUI(k3">
+                    <field name="VAR">global Jawaban</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="FC8x.B!@-]IX5]K_ssb1">
+                <field name="TEXT">1</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="lexical_variable_set" id="bd;bxZXOJq`Y%$2$tx#[">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_add" id="ZhWqHBage[lHR|ZgzBuo">
+                <mutation items="2"></mutation>
+                <value name="NUM0">
+                  <block type="lexical_variable_get" id=".8R*Zv9{?{?a/z!Xc6BW">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="NUM1">
+                  <block type="math_number" id="F;CW9sR%,XuNZ^%}xqIf">
+                    <field name="NUM">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <statement name="ELSE">
+          <block type="lexical_variable_set" id="u9xt5~kFJZ9G4h$M/*KM">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_subtract" id="eh^9*p/ERx:N){JbtN0.">
+                <value name="A">
+                  <block type="lexical_variable_get" id="G*[_SU33ujRI?E){AM-d">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="-|s+(1b1KTgXfRcgwdll">
+                    <field name="NUM">1</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="x=9)?uR@By*/K*wY!n+N">
+            <value name="IF0">
+              <block type="logic_compare" id="H+uX_]zXH6aru-B!y$rz">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="]7Hhvs3E]od+?DN#|jAe">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="2AZi_}^Th+3)23DUOKzv">
+                    <field name="NUM">124</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="controls_openAnotherScreenWithStartValue" id="W8s0n5_!WL_zsu-_p]))">
+                <value name="SCREENNAME">
+                  <block type="text" id="L^1]Wk/a;Ywm5?+GE~EH">
+                    <field name="TEXT">Tabel_NKHM</field>
+                  </block>
+                </value>
+                <value name="STARTVALUE">
+                  <block type="lexical_variable_get" id="*2E2lPyW(m-VdR{ty:[6">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="controls_if" id="^xU.Nd,l12{~y=ysIJX;">
+                <mutation else="1"></mutation>
+                <value name="IF0">
+                  <block type="logic_compare" id="Rt|)F8dzGq`9y;mq$KqX">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="lexical_variable_get" id="5C1H^VF},f1C^yd(xAX_">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_number" id="vvPi(O7l#)}*ecb$tw0j">
+                        <field name="NUM">124</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <statement name="DO0">
+                  <block type="controls_openAnotherScreenWithStartValue" id="s}ods[5CDuvZHuxv-Up0">
+                    <value name="SCREENNAME">
+                      <block type="text" id=":E:|^I~I8Sks?RyJ5!Wq">
+                        <field name="TEXT">Score_EQ</field>
+                      </block>
+                    </value>
+                    <value name="STARTVALUE">
+                      <block type="lexical_variable_get" id="Hay`Z)EK!;x[o6%~H)ti">
+                        <field name="VAR">global Score_EQ_Anda</field>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <statement name="ELSE">
+                  <block type="lexical_variable_set" id="LODkb+kV1eRAxM.FlU*z">
+                    <field name="VAR">global index</field>
+                    <value name="VALUE">
+                      <block type="math_add" id="@P3.iTb!LkQn)IE%VbL.">
+                        <mutation items="2"></mutation>
+                        <value name="NUM0">
+                          <block type="lexical_variable_get" id="iNeUq9iB[KGa;e(VMcf*">
+                            <field name="VAR">global index</field>
+                          </block>
+                        </value>
+                        <value name="NUM1">
+                          <block type="math_number" id="t#P{ncyh-:9`;?)*BZWB">
+                            <field name="NUM">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <next>
+                  <block type="procedures_callnoreturn" id="2Fe{{:0@KPGxwQ}Q9XZK" inline="false">
+                    <mutation name="Soal"></mutation>
+                    <field name="PROCNAME">Soal</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Z(u31qheJ7O+C%AvxDa%" x="2277" y="2996">
+    <mutation component_type="Button" is_generic="false" instance_name="ButtonD" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">ButtonD</field>
+    <statement name="DO">
+      <block type="controls_if" id="uMUqy7rkg)J;o$$Mi#/O">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="W~vEg.Mi|=CJFu~bW!j*">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lists_length" id="IWQ4(lF|Z87vFXY.N|n9">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="ej.Ylf:upmi8,m3lQH3B">
+                    <field name="VAR">global Jawaban</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="=TiZP_3*[i?MV)/(bNO4">
+                <field name="TEXT">0</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="lexical_variable_set" id="8YQ5UxThuc^a7FQy6Z3u">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_add" id="8$}dO@$e6VW9vx63)S#2">
+                <mutation items="2"></mutation>
+                <value name="NUM0">
+                  <block type="lexical_variable_get" id="3=V#~{JXx`r^[@01a[wO">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="NUM1">
+                  <block type="math_number" id="d$ZrPO|bwv!MNXAX}7~r">
+                    <field name="NUM">0</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <statement name="ELSE">
+          <block type="lexical_variable_set" id="b?@%3Gg`F@b:w~{jU.{O">
+            <field name="VAR">global Score_EQ_Anda</field>
+            <value name="VALUE">
+              <block type="math_subtract" id="iC[ul.$cw,r+g21O6]A7">
+                <value name="A">
+                  <block type="lexical_variable_get" id="?;,OuCbf-:RwdT4hj+#A">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="wBic%.)vtjx=4La{!k~9">
+                    <field name="NUM">0</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="P?9R0e!1GS0NBfr;(2Ej">
+            <value name="IF0">
+              <block type="logic_compare" id="!.kN?/l_TZ@@qYBxqmD`">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="nps#}8Yy+mevklN+D}l=">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="dS`sh(.WKyu+Wp]{y.Gs">
+                    <field name="NUM">124</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="controls_openAnotherScreenWithStartValue" id="unXyLYiZMJPkv5~yDb~)">
+                <value name="SCREENNAME">
+                  <block type="text" id="gq*E@p7bFF;@f{[qvfl1">
+                    <field name="TEXT">Tabel_NKHM</field>
+                  </block>
+                </value>
+                <value name="STARTVALUE">
+                  <block type="lexical_variable_get" id="$UVXrJC-.~C2cdPsO54^">
+                    <field name="VAR">global Score_EQ_Anda</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="controls_if" id="Bz7D}?24T1IXR;Sw1MQa">
+                <mutation else="1"></mutation>
+                <value name="IF0">
+                  <block type="logic_compare" id="}C9{8vd@3]g$T3o3,m);">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="lexical_variable_get" id="s-SKITim!26reh|5HNZV">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_number" id=":r4.+W{ujHQMQXPC|U[q">
+                        <field name="NUM">124</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <statement name="DO0">
+                  <block type="controls_openAnotherScreenWithStartValue" id="_?`J2()Zuz2;q^v:j~J(">
+                    <value name="SCREENNAME">
+                      <block type="text" id="I94wR07zgZCKAFP(Hope">
+                        <field name="TEXT">Score_EQ</field>
+                      </block>
+                    </value>
+                    <value name="STARTVALUE">
+                      <block type="lexical_variable_get" id="0ZtCDU$nFPzn-K/JSfQ/">
+                        <field name="VAR">global Score_EQ_Anda</field>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <statement name="ELSE">
+                  <block type="lexical_variable_set" id="=RQcfW14o8nxVc{+BrU;">
+                    <field name="VAR">global index</field>
+                    <value name="VALUE">
+                      <block type="math_add" id=",6A_Tca`kwWhfWWXOe=o">
+                        <mutation items="2"></mutation>
+                        <value name="NUM0">
+                          <block type="lexical_variable_get" id="(HsyQq(hC=eRqZC`%_:o">
+                            <field name="VAR">global index</field>
+                          </block>
+                        </value>
+                        <value name="NUM1">
+                          <block type="math_number" id="cD5#Cb#eX_#1tOJwTlUk">
+                            <field name="NUM">1</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <next>
+                  <block type="procedures_callnoreturn" id="Qxa4m5Fo9}n?$Z:-$4NE" inline="false">
+                    <mutation name="Soal"></mutation>
+                    <field name="PROCNAME">Soal</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

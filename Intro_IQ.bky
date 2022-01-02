@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="*ru0[O=v$YoSNV:qKW}q" x="-277" y="-404">
+    <mutation component_type="Form" is_generic="false" instance_name="Intro_IQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Intro_IQ</field>
+    <statement name="DO">
+      <block type="component_set_get" id="*{2/J])xf7J,3RDawD5~">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="[6M5wg(Jop$w!OOv#L5e">
+            <field name="TEXT">Pada bagian ini akan diberikan test untuk menentukan tingkat kecerdasan intelektuil (IQ). Test ini terdiri dari 32 pertanyaan. Pada setiap pertanyaan diberikan uraian pertanyaan untuk dijawab dan dikerjakan dengan secepat mungkin dan benar dalam waktu 1 jam, tidak boleh melihat kunci jawaban. Berapa jumlah soal yang dapat Anda jawab dalam waktu 1 jam, itulah kemampuan Anda. Setiap pertanyaan diberi pilihan jawaban a, b, c atau d yang harus dipilih salah satu darinya yang menurut pikiran atau pendapat Anda itu sebagai jawaban yang benar.             Setelah selesai memberi jawaban terhadap uraian pertanyaan yang diberikan, cocokkan jawaban Anda dengan lembaran jawaban yang diberikan, jumlahkanlah skor Anda sesuai jawaban yang benar dengan cara mengalikan banyaknya jawaban yang benar dengan 10, selanjutnya itulah nilai kecerdasan IQ Anda. Kemudian gabungkan skor IQ Anda dengan skor kecerdasan lainnya untuk mendapatkan nilai kemampuan hidup Anda.</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="[Y6ckb^G0@wLmSR[C}DZ" x="-273" y="-315">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="VFN~|1K2!#Ci9P_x;2ht">
+        <value name="SCREEN">
+          <block type="text" id="OaFf%.tAbK3w1)]^k%qM">
+            <field name="TEXT">Screen2</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

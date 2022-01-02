@@ -1,0 +1,799 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="~nkM?zQ@1M~lI_@uZL^+" x="-460" y="-496">
+    <mutation component_type="Form" is_generic="false" instance_name="Tabel_NKHM" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Tabel_NKHM</field>
+    <statement name="DO">
+      <block type="component_set_get" id="#^e?iy*ouo)=V]56aYxQ">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+        <field name="COMPONENT_SELECTOR">IQ</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="controls_getStartValue" id="WK6~QNc{$|6b5=jtX2|x"></block>
+        </value>
+        <next>
+          <block type="controls_if" id="NszJF*u0M|Mht(W%=XJz">
+            <value name="IF0">
+              <block type="logic_compare" id="[I@Yun!mfIDdc(bWg6l7">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="component_set_get" id="03pY|N95l[!5agw}Dm=L">
+                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                    <field name="COMPONENT_SELECTOR">IQ</field>
+                    <field name="PROP">Text</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="controls_getStartValue" id="Hj5.@y,e$,`Q!$zrZ]a%"></block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="local_declaration_statement" id="Nggp(?Z2aLy/h%:~TpDV">
+                <mutation>
+                  <localname name="nameIQ"></localname>
+                </mutation>
+                <field name="VAR0">nameIQ</field>
+                <value name="DECL0">
+                  <block type="component_set_get" id="=z1wnZmaR8oO-+^9{O)Q">
+                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_IQ_Anda"></mutation>
+                    <field name="COMPONENT_SELECTOR">Score_IQ_Anda</field>
+                    <field name="PROP">Text</field>
+                  </block>
+                </value>
+                <statement name="STACK">
+                  <block type="component_set_get" id="VM`r=KplW=2=:2FCM$j!">
+                    <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                    <field name="COMPONENT_SELECTOR">IQ</field>
+                    <field name="PROP">Text</field>
+                    <value name="VALUE">
+                      <block type="logic_compare" id="Ma^`A@NyTzP%5cnVvWdP">
+                        <field name="OP">EQ</field>
+                        <value name="A">
+                          <block type="lexical_variable_get" id="46y5f-`nP`J`2s|;]*0l">
+                            <field name="VAR">nameIQ</field>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="component_set_get" id="tR-RH7E|ZLnjAP,,6mn,">
+                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_IQ_Anda"></mutation>
+                            <field name="COMPONENT_SELECTOR">Score_IQ_Anda</field>
+                            <field name="PROP">Text</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="component_set_get" id="bM!bPLeh*rk8_[IEO!BX">
+                        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                        <field name="COMPONENT_SELECTOR">IQ</field>
+                        <field name="PROP">Text</field>
+                        <value name="VALUE">
+                          <block type="controls_getStartValue" id="+3np];%0h16Xv-0jN*1a"></block>
+                        </value>
+                      </block>
+                    </next>
+                  </block>
+                </statement>
+              </block>
+            </statement>
+            <next>
+              <block type="component_set_get" id="iT|07pb566VRuTd$8gh]">
+                <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                <field name="COMPONENT_SELECTOR">EQ</field>
+                <field name="PROP">Text</field>
+                <value name="VALUE">
+                  <block type="controls_getStartValue" id="%+pHTH4UnBXAoq@P}wA!"></block>
+                </value>
+                <next>
+                  <block type="controls_if" id="xL{}*v0dlz4K45-q.|L7">
+                    <value name="IF0">
+                      <block type="logic_compare" id="4mdprn!mC2Io+J%?^JMM">
+                        <field name="OP">EQ</field>
+                        <value name="A">
+                          <block type="component_set_get" id="{0Y+8Mes#RX?ez:Mq0Tc">
+                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                            <field name="COMPONENT_SELECTOR">EQ</field>
+                            <field name="PROP">Text</field>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="controls_getStartValue" id="QV=/59:G$NL12:ebrQ1("></block>
+                        </value>
+                      </block>
+                    </value>
+                    <statement name="DO0">
+                      <block type="local_declaration_statement" id=",6y_*l8ZZOG=u58dfiqU">
+                        <mutation>
+                          <localname name="nameEQ"></localname>
+                        </mutation>
+                        <field name="VAR0">nameEQ</field>
+                        <value name="DECL0">
+                          <block type="component_set_get" id="qkJ%e|63a[m]LPF.??0|">
+                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_EQ_Anda"></mutation>
+                            <field name="COMPONENT_SELECTOR">Score_EQ_Anda</field>
+                            <field name="PROP">Text</field>
+                          </block>
+                        </value>
+                        <statement name="STACK">
+                          <block type="component_set_get" id="*`p}.IK#xG?e2Ev^|uyl">
+                            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                            <field name="COMPONENT_SELECTOR">EQ</field>
+                            <field name="PROP">Text</field>
+                            <value name="VALUE">
+                              <block type="logic_compare" id="6CXWw`R!(Di6,OfSb/_b">
+                                <field name="OP">EQ</field>
+                                <value name="A">
+                                  <block type="lexical_variable_get" id="/ZI0$5t`4#5~B)@[w%.r">
+                                    <field name="VAR">nameEQ</field>
+                                  </block>
+                                </value>
+                                <value name="B">
+                                  <block type="component_set_get" id="Bm)EmNKhE}17M]7H0osm">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_EQ_Anda"></mutation>
+                                    <field name="COMPONENT_SELECTOR">Score_EQ_Anda</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="component_set_get" id="8MAW3#b~eFTGG%|i^%i/">
+                                <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                                <field name="COMPONENT_SELECTOR">EQ</field>
+                                <field name="PROP">Text</field>
+                                <value name="VALUE">
+                                  <block type="controls_getStartValue" id="W|LzGGtxR/jel]@C6I?("></block>
+                                </value>
+                              </block>
+                            </next>
+                          </block>
+                        </statement>
+                      </block>
+                    </statement>
+                    <next>
+                      <block type="component_set_get" id="H/yV,kiX8.|0CIB{u{f[">
+                        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Score_SQ_Anda"></mutation>
+                        <field name="COMPONENT_SELECTOR">Score_SQ_Anda</field>
+                        <field name="PROP">Text</field>
+                        <value name="VALUE">
+                          <block type="controls_getStartValue" id="+KCN/Ci,~]L=T4%Ga_fU"></block>
+                        </value>
+                        <next>
+                          <block type="controls_if" id="kpAUcJfwB1x{c@cv`c/P">
+                            <value name="IF0">
+                              <block type="logic_compare" id="wi`yV9t{JyLno({[Q4EP">
+                                <field name="OP">EQ</field>
+                                <value name="A">
+                                  <block type="component_set_get" id="EO;[vz@MIT)gg`jhu+cU">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_SQ_Anda"></mutation>
+                                    <field name="COMPONENT_SELECTOR">Score_SQ_Anda</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="B">
+                                  <block type="controls_getStartValue" id="5QLoy;Ry6ooa2xvPMwa6"></block>
+                                </value>
+                              </block>
+                            </value>
+                            <statement name="DO0">
+                              <block type="local_declaration_statement" id="u^c*^i2C0A0H^lYhZ}Qc">
+                                <mutation>
+                                  <localname name="nameSQ"></localname>
+                                </mutation>
+                                <field name="VAR0">nameSQ</field>
+                                <value name="DECL0">
+                                  <block type="component_set_get" id="~rbP/lx6VQNo;gbtZLVR">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_SQ_Anda"></mutation>
+                                    <field name="COMPONENT_SELECTOR">Score_SQ_Anda</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <statement name="STACK">
+                                  <block type="component_set_get" id="@R74ui7X;|#h(j$DxGuI">
+                                    <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">SQ</field>
+                                    <field name="PROP">Text</field>
+                                    <value name="VALUE">
+                                      <block type="logic_compare" id="mF]Q3Q?/o/R`U7zBt9P(">
+                                        <field name="OP">EQ</field>
+                                        <value name="A">
+                                          <block type="lexical_variable_get" id="gzN]7hI6Of*v5F1+L^)b">
+                                            <field name="VAR">nameSQ</field>
+                                          </block>
+                                        </value>
+                                        <value name="B">
+                                          <block type="component_set_get" id="4RMT6UWF85tLNir2SrJb">
+                                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_SQ_Anda"></mutation>
+                                            <field name="COMPONENT_SELECTOR">Score_SQ_Anda</field>
+                                            <field name="PROP">Text</field>
+                                          </block>
+                                        </value>
+                                      </block>
+                                    </value>
+                                    <next>
+                                      <block type="component_set_get" id="g6$;0c~O4a#YO;eFn;?:">
+                                        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                        <field name="COMPONENT_SELECTOR">SQ</field>
+                                        <field name="PROP">Text</field>
+                                        <value name="VALUE">
+                                          <block type="controls_getStartValue" id="O;3O_RwH#ow*4;rr2#^s"></block>
+                                        </value>
+                                      </block>
+                                    </next>
+                                  </block>
+                                </statement>
+                              </block>
+                            </statement>
+                            <next>
+                              <block type="component_set_get" id="=W7tmoB@6dj/{]k(zK!w">
+                                <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Score_AQ_Anda"></mutation>
+                                <field name="COMPONENT_SELECTOR">Score_AQ_Anda</field>
+                                <field name="PROP">Text</field>
+                                <value name="VALUE">
+                                  <block type="controls_getStartValue" id="-=x`e6fdc3Fx.rHg[v^m"></block>
+                                </value>
+                                <next>
+                                  <block type="controls_if" id="0H,pL#@bA(6Ng0|D]({~">
+                                    <value name="IF0">
+                                      <block type="logic_compare" id="x*+V8M.yN~@.G^sh]!9g">
+                                        <field name="OP">EQ</field>
+                                        <value name="A">
+                                          <block type="component_set_get" id="68i7:4x?yA|!0-Ldh=mJ">
+                                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_AQ_Anda"></mutation>
+                                            <field name="COMPONENT_SELECTOR">Score_AQ_Anda</field>
+                                            <field name="PROP">Text</field>
+                                          </block>
+                                        </value>
+                                        <value name="B">
+                                          <block type="controls_getStartValue" id=":|2]^:c;f.;0!lj()ji@"></block>
+                                        </value>
+                                      </block>
+                                    </value>
+                                    <statement name="DO0">
+                                      <block type="local_declaration_statement" id="^?u%|n}m-SM3(3TUtGn,">
+                                        <mutation>
+                                          <localname name="nameAQ"></localname>
+                                        </mutation>
+                                        <field name="VAR0">nameAQ</field>
+                                        <value name="DECL0">
+                                          <block type="component_set_get" id="QlP9RnQX;e|XkTmtSmrT">
+                                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_AQ_Anda"></mutation>
+                                            <field name="COMPONENT_SELECTOR">Score_AQ_Anda</field>
+                                            <field name="PROP">Text</field>
+                                          </block>
+                                        </value>
+                                        <statement name="STACK">
+                                          <block type="component_set_get" id="om!8cRe/+f}AlyfsHZyE">
+                                            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                            <field name="COMPONENT_SELECTOR">AQ</field>
+                                            <field name="PROP">Text</field>
+                                            <value name="VALUE">
+                                              <block type="logic_compare" id="MnV%T.kfaDBO|KkYsJv~">
+                                                <field name="OP">EQ</field>
+                                                <value name="A">
+                                                  <block type="lexical_variable_get" id="leK/7dN]yC^8zU$D9-`;">
+                                                    <field name="VAR">nameAQ</field>
+                                                  </block>
+                                                </value>
+                                                <value name="B">
+                                                  <block type="component_set_get" id="cn,7-$_pPP09ueD.@LxC">
+                                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Score_AQ_Anda"></mutation>
+                                                    <field name="COMPONENT_SELECTOR">Score_AQ_Anda</field>
+                                                    <field name="PROP">Text</field>
+                                                  </block>
+                                                </value>
+                                              </block>
+                                            </value>
+                                            <next>
+                                              <block type="component_set_get" id="UO+Fr.+tj5d^+cfVQ#Pw">
+                                                <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                                <field name="COMPONENT_SELECTOR">AQ</field>
+                                                <field name="PROP">Text</field>
+                                                <value name="VALUE">
+                                                  <block type="controls_getStartValue" id="4aGs^yK:RiG=b;{AF0dA"></block>
+                                                </value>
+                                              </block>
+                                            </next>
+                                          </block>
+                                        </statement>
+                                      </block>
+                                    </statement>
+                                  </block>
+                                </next>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="G6Bw-p0_0!WJdL?C1dB?" x="294" y="-192">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="iflN:r[(0~-,!fSeWU|6">
+        <value name="SCREEN">
+          <block type="text" id="cczt8Cr$ajLL-#)Fc47M">
+            <field name="TEXT">Tabel_Score</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="=PEC)B{l%zHmhp$3mYUj" x="302" y="-82">
+    <mutation component_type="Button" is_generic="false" instance_name="Button4" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button4</field>
+    <statement name="DO">
+      <block type="component_method" id="uX+#v)$NX{q0Qb2mxCxI">
+        <mutation component_type="Notifier" method_name="ShowChooseDialog" is_generic="false" instance_name="Notifier1"></mutation>
+        <field name="COMPONENT_SELECTOR">Notifier1</field>
+        <value name="ARG0">
+          <block type="text" id="(j10DzMl[!oD:$9A[/no">
+            <field name="TEXT">Keluar Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="dyQo$K8noPY;.BnUzT*e">
+            <field name="TEXT">Anda Yakin Keluar Dari Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="M$~#?MEA#zmfH/5!|.w!">
+            <field name="TEXT">EXIT</field>
+          </block>
+        </value>
+        <value name="ARG3">
+          <block type="text" id="iB@IhLh?,)Ecjc3dSi3M">
+            <field name="TEXT">STAY</field>
+          </block>
+        </value>
+        <value name="ARG4">
+          <block type="logic_boolean" id="~F8/X;)cNpH`Vz6+3!w?">
+            <field name="BOOL">FALSE</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="joY$jF`1hsiVN};mZ9.O" x="306" y="165">
+    <mutation component_type="Notifier" is_generic="false" instance_name="Notifier1" event_name="AfterChoosing"></mutation>
+    <field name="COMPONENT_SELECTOR">Notifier1</field>
+    <statement name="DO">
+      <block type="controls_if" id="[{%_Nxiro0E*9tnIV1Si">
+        <value name="IF0">
+          <block type="logic_compare" id="amima9/?Y3sZX67i^XLT">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="Qf28_+%5JL9Ah0qgDxb:">
+                <mutation>
+                  <eventparam name="choice"></eventparam>
+                </mutation>
+                <field name="VAR">choice</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="n[**CsGggD|/#[-T^Lno">
+                <field name="TEXT">EXIT</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_closeApplication" id="5(v@2e-(+2Y*t@~z9?Q#"></block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="$9Jj7`3d8lOE6u9Sgwrj" x="-328" y="275">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="eG4$*_$fCMfs-0zLKnL[">
+        <value name="SCREEN">
+          <block type="text" id="JJLSjpex@w33O77,9?Tt">
+            <field name="TEXT">Screen1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="global_declaration" id="8wb_KqP*ca5{$Htgx_Ij" x="-403" y="400">
+    <field name="NAME">a</field>
+    <value name="VALUE">
+      <block type="text" id=".|M_=V0u5pSn|}D;@U9~">
+        <field name="TEXT">Score_IQ_Anda</field>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="Vb+8+?aAs~JT{/Uu;h,-" x="12" y="403">
+    <field name="NAME">b</field>
+    <value name="VALUE">
+      <block type="text" id="T~pfHOLjB2]K,}v$[h]A">
+        <field name="TEXT">Score_EQ_Anda</field>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="mc8^hqk=Y6X*7FQ}^2]2" x="-401" y="474">
+    <field name="NAME">c</field>
+    <value name="VALUE">
+      <block type="text" id="MXGe*Ng{Fn30wNdv;DaP">
+        <field name="TEXT">Score_SQ_Anda</field>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="Wk(]aQ-$%_OHTHMHEPiI" x="16" y="463">
+    <field name="NAME">d</field>
+    <value name="VALUE">
+      <block type="text" id="z*$WT:PB3+pWSx/9$lWT">
+        <field name="TEXT">Score_AQ_Anda</field>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="2%]ju~u5?+ERFN`/=6X*" x="-391" y="571">
+    <field name="NAME">NKHM</field>
+    <value name="VALUE">
+      <block type="text" id="Q0bzU/c1;qesykHRue?5">
+        <field name="TEXT">Score_NKHM</field>
+      </block>
+    </value>
+  </block>
+  <block type="component_event" id="R:#*T;B$2p`,PBhVDG5D" x="-435" y="678">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_if" id="b3i@R}[s(}kNMGd[VrM^">
+        <value name="IF0">
+          <block type="logic_operation" id="VJ)ab8JcRi}qD8a^g?3[">
+            <mutation items="2"></mutation>
+            <field name="OP">AND</field>
+            <value name="A">
+              <block type="logic_compare" id="bHH=9o|NtMLDCJ%bl=qj">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="component_component_block" id="(c?$jtg_W6p/2;^!=3K.">
+                    <mutation component_type="Label" instance_name="Score_IQ_Anda"></mutation>
+                    <field name="COMPONENT_SELECTOR">Score_IQ_Anda</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="component_set_get" id="TBPcl}IwFJf8G`nYzu~f">
+                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                    <field name="COMPONENT_SELECTOR">IQ</field>
+                    <field name="PROP">Text</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <value name="B">
+              <block type="logic_operation" id="u0;t.KJ3sPU4TKdDQ/-g">
+                <mutation items="2"></mutation>
+                <field name="OP">AND</field>
+                <value name="A">
+                  <block type="logic_compare" id="6rKhXj/r2jFR1yIVN5=+">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="component_component_block" id="x*fL73DlTq~wH{4LDj91">
+                        <mutation component_type="Label" instance_name="Score_EQ_Anda"></mutation>
+                        <field name="COMPONENT_SELECTOR">Score_EQ_Anda</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="component_set_get" id="}=W`oy(OX0cya1E:3D|D">
+                        <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                        <field name="COMPONENT_SELECTOR">EQ</field>
+                        <field name="PROP">Text</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="logic_operation" id="Ya1?;*F)*jvp3UN45)oX">
+                    <mutation items="2"></mutation>
+                    <field name="OP">AND</field>
+                    <value name="A">
+                      <block type="logic_compare" id="cEe)2|)_J968Tp0LpGL?">
+                        <field name="OP">EQ</field>
+                        <value name="A">
+                          <block type="component_component_block" id="%.z==3+!D%;1fq@B:*Zv">
+                            <mutation component_type="Label" instance_name="Score_SQ_Anda"></mutation>
+                            <field name="COMPONENT_SELECTOR">Score_SQ_Anda</field>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="component_set_get" id="1oxckalsbdx@l.m8sriV">
+                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                            <field name="COMPONENT_SELECTOR">SQ</field>
+                            <field name="PROP">Text</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="logic_compare" id="Y:y,PL,IT6-?i|@!abhD">
+                        <field name="OP">EQ</field>
+                        <value name="A">
+                          <block type="component_component_block" id="1J0V.J_0/$fsyo++0$;X">
+                            <mutation component_type="Label" instance_name="Score_AQ_Anda"></mutation>
+                            <field name="COMPONENT_SELECTOR">Score_AQ_Anda</field>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="component_set_get" id="^e57i@|.-r0A!WE*VfRT">
+                            <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                            <field name="COMPONENT_SELECTOR">AQ</field>
+                            <field name="PROP">Text</field>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="lexical_variable_set" id="R~W0-{@7~O]wS}@q7[Vn">
+            <field name="VAR">global NKHM</field>
+            <value name="VALUE">
+              <block type="lexical_variable_get" id=".q[H3WFPT)C{ka+uh.^)">
+                <field name="VAR">global NKHM</field>
+              </block>
+            </value>
+            <next>
+              <block type="lexical_variable_set" id="0Y%dr[m]}Te4y@:T..#b">
+                <field name="VAR">Score_NKHM</field>
+                <value name="VALUE">
+                  <block type="logic_compare" id="6#XZ!n8*k4L6xn_nM.A$">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="text" id="T5tunRMdEID:Cye!gv)d">
+                        <field name="TEXT">Score_NKHM</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_division" id="`XPKkuD}M2Th@Qe:G}j|">
+                        <value name="A">
+                          <block type="math_multiply" id="y)zP8WbT17|N:drPY?!]">
+                            <mutation items="2"></mutation>
+                            <value name="NUM0">
+                              <block type="math_add" id="Z`WBEDH$*1N.79L3s+y0">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="eYs9p#IA]?,X[sx)1l%J">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">IQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="U{w+eFqdj^pa$*DbfF}-">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">EQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                            <value name="NUM1">
+                              <block type="math_add" id="km;1D3i~=6Ho5gI)KQm[">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="VM0(F4zDL-$,|VMM.~]d">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">SQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="Tg4W0_D6]oF%~aCp#ZFG">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">AQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="math_add" id="{j(Tvp$(S[mvi5wWQ^-(">
+                            <mutation items="2"></mutation>
+                            <value name="NUM0">
+                              <block type="math_add" id="ZRvTK`6U!S5|0$Pcj9YF">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="^opW+Obkbq=qH/p~;UJR">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">IQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="g:t._6Mz`.nu()u,tYBJ">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">EQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                            <value name="NUM1">
+                              <block type="math_add" id="JAjXw1hA{^9V,/w]);2G">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="3~jJ{T}b:cp|_=Y}.:8Q">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">SQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="gBUe5PvTtY+]b]He#RGF">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">AQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </statement>
+        <next>
+          <block type="procedures_callnoreturn" id="MCY[hA_;XK/#.:.8(kq+" inline="false">
+            <mutation name="hitung_NKHM"></mutation>
+            <field name="PROCNAME">hitung_NKHM</field>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="procedures_defnoreturn" id=",%JJVDd*F6mTIi:?9OR8" x="-438" y="960">
+    <field name="NAME">hitung_NKHM</field>
+    <statement name="STACK">
+      <block type="lexical_variable_set" id="OfXW17@`#DT|EnBch2VL">
+        <field name="VAR">global NKHM</field>
+        <value name="VALUE">
+          <block type="lexical_variable_get" id="Ja;tI2o]=e8@XM{2t}$W">
+            <field name="VAR">global NKHM</field>
+          </block>
+        </value>
+        <next>
+          <block type="local_declaration_statement" id="J+3u$ACeO8$p~Ynh^COJ">
+            <mutation>
+              <localname name="Score_NKHM"></localname>
+            </mutation>
+            <field name="VAR0">Score_NKHM</field>
+            <value name="DECL0">
+              <block type="lexical_variable_get" id="YNDEMUZ||:yzG3ZEPIA+">
+                <field name="VAR">global NKHM</field>
+              </block>
+            </value>
+            <statement name="STACK">
+              <block type="lexical_variable_set" id="?M2qD|a,F[]+^a8x#eeB">
+                <field name="VAR">Score_NKHM</field>
+                <value name="VALUE">
+                  <block type="logic_compare" id="SFHZ5(-!L6a4OR(8=jpp">
+                    <field name="OP">EQ</field>
+                    <value name="A">
+                      <block type="text" id="!aX`5ef-kte9us7!L_Uw">
+                        <field name="TEXT">Score_NKHM</field>
+                      </block>
+                    </value>
+                    <value name="B">
+                      <block type="math_division" id="VFK}4+ez6PzyhUvvgP6m">
+                        <value name="A">
+                          <block type="math_multiply" id="3B#sM0H+=nU)Bn;^W~(q">
+                            <mutation items="2"></mutation>
+                            <value name="NUM0">
+                              <block type="math_add" id="croyFR.3R3+mxqb|-v58">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="c/DXeLYZDXH}HBa:_d#P">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">IQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="9`s{GHuidlSgJj4516D;">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">EQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                            <value name="NUM1">
+                              <block type="math_add" id="lfsDweAIyoe925.e6)9L">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="tg9R,6)Z=KA$J}lO`@b{">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">SQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="kRX.u%9^d4/K)B}Aro`0">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">AQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                        <value name="B">
+                          <block type="math_add" id="DzKN+}vhaMFeqn!0U,20">
+                            <mutation items="2"></mutation>
+                            <value name="NUM0">
+                              <block type="math_add" id="(h?IV^I1I8/8W89[NuPI">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="Do)rCd5NBgP#b^{SlJ2i">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="IQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">IQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="2Y!Ca]|b3H5}.`q7PXD,">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="EQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">EQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                            <value name="NUM1">
+                              <block type="math_add" id="{gD)hck6pTC7=xX}FyyN">
+                                <mutation items="2"></mutation>
+                                <value name="NUM0">
+                                  <block type="component_set_get" id="m~b8*(!FmyaPP3)B/g0z">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="SQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">SQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                                <value name="NUM1">
+                                  <block type="component_set_get" id="cYodSQDsPpZ~s/#[fzs!">
+                                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="AQ"></mutation>
+                                    <field name="COMPONENT_SELECTOR">AQ</field>
+                                    <field name="PROP">Text</field>
+                                  </block>
+                                </value>
+                              </block>
+                            </value>
+                          </block>
+                        </value>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </statement>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

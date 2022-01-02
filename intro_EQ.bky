@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="s:~yET[iA^NmJXWUm,9`" x="-348" y="-204">
+    <mutation component_type="Form" is_generic="false" instance_name="intro_EQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">intro_EQ</field>
+    <statement name="DO">
+      <block type="component_set_get" id="5VpJ[eI^9GV%!hc8yspr">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="M/=n:5Vp)EWV-W+F/jN:">
+            <field name="TEXT">Pada bagian ini akan diberikan test untuk menentukan tingkat kecerdasan Emosionil (EQ). Test ini terdiri dari 3 bagian dan masing-masing bagian terdiri dari beberapa skala pengujian yaitu ketrampilan emosi, kecakapan EQ, nilai-nilai EQ dan keyakinan.             Bagian 1. ketrampilan emosi terdiri dari 3 skala, yaitu: Skala 1: kesadaran diri emosi,ini ditujukan untuk yang berhubungan dengan pemahaman diri, baik berupa kelebihan maupun kekurangan diri. Skala 2: Expresi emosi, ini ditujukan untuk yang berhubungan dengan kemampuan diri, untuk mengungkapkan perasaan pada orang lain agar orang tersebut tahu. Skala 3: Kesadaran emosi terhadap orang lain, ini ditujukan untuk mengukur kemampuan diri dalam mengelola perasaan sendiri dan memperlalukan orang lain seperti memperlakukan diri sendiri.             Bagian 2 kecakapan EQ terdiri dari 5 skala, yaitu: Skala 1: Intensionalitas, ini ditujukan untuk mengukur kemampuan diri melakukan tugas dengan tuntas. Skala 2: Kreativitas, ini ditujukan untuk mengukur kemampuan diri mengekspresikan kreativitas yang dipakai untuk mendukung tugas-tugas. Skala 3: Ketangguhan, ini ditujukan untuk mengukur kemampuan diri menerima dan mengatasi masalah jika ada terjadi konflik. Skala 4: Hubungan antar pribadi, ini ditujukan untuk mengukur kemampuan diri beradaptasi pada situasi baru dan bertoleransi dengan orang lain. Skala 5 Ketidak-puasan konstruktif, ini ditujukan untuk mengukur kemampuan diri dalam mengatasi ketidakpuasan diri dari orang lain.             Bagian 3 Nilai-nilai EQ dan keyakinan terdiri dari 6 skala yaitu: Skala 1: Belas kasihan, ini ditujukan untuk mengukur kemampuan diri peka terhadap segala sesuatu Skala 2: Sudut pAndang, ini ditujukan untuk mengukur kemampuan diri berperilaku positif dalam mengatasi masalah yang dihadapi. Skala 3: Intuisi, ini ditujukan untuk mengukur kemampuan diri cara berpikir jauh kedepan, jauh lebih maju dibanding dengan orang lain. Skala 4: Radius kepercayaan, ini ditujukan untuk mengukur kemampuan diri agar dapat dipercayai dan mempercayai orang lain. Skala 5: Daya pribadi, ini ditujukan untuk mengukur kemampuan diri untuk dapat bertanggung jawab terhadap apa yang dipikirkan dan dilakukan. Skala 6: Integritas, ini ditujukan untuk mengukur kemampuan diri kesatuan antara tanggung jawab dan nilai nilai diri yang diperlukan untuk menumbuhkan keberanian mengambil resiko dari tanggung jawab yang diemban. Pada test EQ ini, setiap skala ukuran kemampuan diri dalam setiap bagian pertanyaan diberi uraian pertanyaan dan skor tanggapan untuk dikerjakan dengan secepat mungkin dan sejujur mungkin dalam waktu 1 jam, berapa jumlah soal yang dapat Anda jawab dalam 1 jam itulah kemampuan Anda. Adapun skor tanggapan tersebut diberi angka 0, 1, 2 dan 3 dalam setiap kolom pertanyaan dan saudara harus memilih salah satu darinya yang menggambarkan tanggapan Anda, angka 3 berarti menggambarkan pikiran atau perasaan Anda terhadap hal yang diuraikan yang berarti setuju sekali, angka 2 berarti setuju, angka 1 berarti kurang setuju dan angka 0 berarti tidak setuju sekali.             Setelah selesai memberi tanggapan terhadap uraian pertanyaan yang diberikan, cocokkan jawaban Anda dengan skor tanggapan yang diberikan, jumlahkanlah skor tanggapan Anda tersebut untuk tiap lajur dan selanjutnya jumlahkan untuk masing masing skala, selanjutnya pindahkan skor Anda untuk tiap tiap skala ke table penilaian EQ sesuai kolom masing masing skala untuk mendapatkan nilai EQ Anda. Kemudian gabungkan skor EQ Anda dengan skor kecerdasan lainnya untuk mendapatkan nilai kemampuan hidup Anda.</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="RA]]*31GE-7[fMNvyO3C" x="-347" y="-101">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="4GG]~IhyW]1cowSIuN$Q">
+        <value name="SCREEN">
+          <block type="text" id="QQ-5ET)3y1LKMYn;.jx%">
+            <field name="TEXT">Test_EQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

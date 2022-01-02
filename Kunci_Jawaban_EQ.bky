@@ -1,0 +1,213 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="global_declaration" id="ZsckKLz6(:a?0%Q@8361" x="-1025" y="2911">
+    <field name="NAME">List_Kunci_Jawaban</field>
+    <value name="VALUE">
+      <block type="text_join" id="XnstV5T#iZYQu.XBsKs(">
+        <mutation items="8"></mutation>
+        <value name="ADD0">
+          <block type="text" id="+VVNrZ=5#Dw|//|AYu1Q">
+            <field name="TEXT">Sangat setuju = 3 </field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="h?Th[1%oR](d}~RN%KMJ">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="V:VSvD-_NH_zU5Pwkg/,">
+            <field name="TEXT">Setuju = 2</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="nb}hJCg0BCKS!dV~0%/+">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="h:/H%c@i37[){8hz.])f">
+            <field name="TEXT">Kurang setuju = 1</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="{B)O|N[~;r,q:Qhn4Q;A">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="WTR;T9m^zukU8JMe?}Ej">
+            <field name="TEXT">Tidak setuju sekali = 0</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="3Cx4w2ZZhDZoyvWK]%(]">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="component_event" id="2UtB~`t_ViJPBI{`V`WZ" x="-272" y="3111">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="component_method" id="vrl$Q:Ox8E:+d.9^E?{W">
+        <mutation component_type="Notifier" method_name="ShowChooseDialog" is_generic="false" instance_name="Notifier1"></mutation>
+        <field name="COMPONENT_SELECTOR">Notifier1</field>
+        <value name="ARG0">
+          <block type="text" id="}:[N)t9W:gK9n?f@mTOZ">
+            <field name="TEXT">Keluar App;ikasi"</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="8:/(,O{(`ldq%5.+%q%o">
+            <field name="TEXT">Anda Yakin Keluar Dari Applikasi"</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="t/(-x#fHU-hhJ?R:RjMT">
+            <field name="TEXT">EXIT</field>
+          </block>
+        </value>
+        <value name="ARG3">
+          <block type="text" id="[8eZc5UX`AJ*5e-Do*g@">
+            <field name="TEXT">STAY</field>
+          </block>
+        </value>
+        <value name="ARG4">
+          <block type="logic_boolean" id="WifNNG`_)^]0*Vu,d}7l">
+            <field name="BOOL">FALSE</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="procedures_defnoreturn" id="f|U)+!mDq?MT-N~t)Ge~" x="-1055" y="3167">
+    <field name="NAME">Jawaban</field>
+    <statement name="STACK">
+      <block type="component_set_get" id="xsmR]3r;!JTKbzrp37)t">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="{Sqh?*gy*kH[c++.-%gy">
+            <field name="TEXT">Jawaban Soal Ke-1 sampai dengan ke-124</field>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="~zL/Bp{`2JvhB4nH3O!5">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label3"></mutation>
+            <field name="COMPONENT_SELECTOR">Label3</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="lexical_variable_get" id="tUTtc+(9_TCV2N+!`?Pd">
+                <field name="VAR">global List_Kunci_Jawaban</field>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="$QACshy*zJJmhxL#L2wR" x="-1054" y="3270">
+    <mutation component_type="Form" is_generic="false" instance_name="Kunci_Jawaban_EQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Kunci_Jawaban_EQ</field>
+    <statement name="DO">
+      <block type="procedures_callnoreturn" id="lwt]R+Jj@[sLCy_G#F%1" inline="false">
+        <mutation name="Jawaban"></mutation>
+        <field name="PROCNAME">Jawaban</field>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="6R;]yL+kvjn{Y!Mb3Cu6" x="-1053" y="3354">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_if" id="C-=Wp]zS2O0Y24nwSspp">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="lexical_variable_get" id="OJX|xRnoRNAisb|IZBjx">
+            <field name="VAR">global List_Kunci_Jawaban</field>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="component_set_get" id=".z@o^b`nNUT#87h*SwDH">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label3"></mutation>
+            <field name="COMPONENT_SELECTOR">Label3</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="lexical_variable_get" id=".x]6kwr/L!%4;1Xa[K4;">
+                <field name="VAR">global List_Kunci_Jawaban</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <statement name="ELSE">
+          <block type="component_set_get" id="K{}EMZYO[=`0}lAQ4Ib8">
+            <mutation component_type="Button" set_or_get="set" property_name="Visible" is_generic="false" instance_name="Button2"></mutation>
+            <field name="COMPONENT_SELECTOR">Button2</field>
+            <field name="PROP">Visible</field>
+            <value name="VALUE">
+              <block type="logic_boolean" id="}swaqJ?d?nt%(AlxT:(H">
+                <field name="BOOL">TRUE</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="!YwNJSH8.yN{Fw17md?*" x="-270" y="3325">
+    <mutation component_type="Notifier" is_generic="false" instance_name="Notifier1" event_name="AfterChoosing"></mutation>
+    <field name="COMPONENT_SELECTOR">Notifier1</field>
+    <statement name="DO">
+      <block type="controls_if" id="J_2rMb*Tq,hxoY^Y}tkT">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id=",5+`z4j7Q!czGz#P+VDx">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="e=[8$qLjD+|/cwlAssPX">
+                <mutation>
+                  <eventparam name="choice"></eventparam>
+                </mutation>
+                <field name="VAR">choice</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="jn8h0P{{?=Dbqmfay$3`">
+                <field name="TEXT">EXIT</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_closeApplication" id="5HO4Y4=JpG0Ty3K::45["></block>
+        </statement>
+        <statement name="ELSE">
+          <block type="controls_openAnotherScreen" id="faUSch,KC~33{l^a|QdB">
+            <value name="SCREEN">
+              <block type="text" id="*~Wk4j+CJ5JuKM-Np9Y7">
+                <field name="TEXT">Test_EQ</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="tN|{iA!H/dQhN==ml0gw" x="-259" y="3551">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="0GUsKej@by+U~h;)tE|m">
+        <value name="SCREEN">
+          <block type="text" id="[.K/nLz7i%u4)DCeD7Rq">
+            <field name="TEXT">intro_SQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

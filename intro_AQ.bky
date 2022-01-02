@@ -1,0 +1,32 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="oJJ]tm}0Q3|Z{++3dHrc" x="-335" y="-235">
+    <mutation component_type="Form" is_generic="false" instance_name="intro_AQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">intro_AQ</field>
+    <statement name="DO">
+      <block type="component_set_get" id="Fe3;Ms[9bz95c+ruu^^e">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text" id="?0gspyEW.JMJ7Sik#5A~">
+            <field name="TEXT">Pada bagian ini akan diberikan test untuk menentukan tingkat kecerdasan Perilaku (VQ). Test ini terdiri dari 3 ketrampilan perilaku, kecakapan VQ, nilai-nilai VQ dan budi.             Pada bagian 1 terdiri dari 4 pertanyaan, bagian 2 terdiri dari 8 pertanyaan dan bagian 3 terdiri dari 10 pertanyaan, jumlah seluruhnya ada 22 pertanyaan Setiap bagian ukuran kemampuan diri VQ dalam setiap bagian pertanyaan diberi uraian pertanyaan dan skor tanggapan untuk dikerjakan dengan secepat mungkin dan sejujur mungkin dalam waktu 1 jam, berapa jumlah soal yang dapat Anda jawab dalam waktu 1 jam itulah kemampuan Anda. Adapun skor tanggapan tersebut diberi angka 0, 1, 2 dan 3 dalam setiap kolom pertanyaan dan saudara harus memilih salah satu darinya yang menggambarkan tanggapan Anda, angka 3 berarti menggambarkan pikiran atau perasaan Anda terhadap hal yang diuraikan yang berarti setuju sekali, angka 2 berarti setuju, angka 1 berarti kurang setuju dan angka 0 berarti tidak setuju sekali.             Setelah selesai memberi tanggapan terhadap uraian pertanyaan yang diberikan, cocokkan jawaban Anda dengan skor tanggapan yang diberikan, jumlahkanlah skor tanggapan Anda tersebut untuk tiap lajur dan selanjutnya jumlahkan untuk masing masing bagian, selanjutnya pindahkan skor Anda untuk tiap tiap bagian ke table penilaian VQ sesuai kolom masing masing bagian untuk mendapatkan nilai VQ Anda. Kemudian gabungkan skor VQ Anda dengan skor kecerdasan lainnya untuk mendapatkan nilai kemampuan hidup Anda.</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="$3,lU*sDh{6YgwtMm,5V" x="-324" y="-121">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="7SpM*q$_f=GglRUWP;!j">
+        <value name="SCREEN">
+          <block type="text" id="*pDL]|2f]/2-KwCc3l/K">
+            <field name="TEXT">Test_AQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

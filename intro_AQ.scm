@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["localhost","ai2.appinventor.mit.edu"],"YaVersion":"208","Source":"Form","Properties":{"$Name":"intro_AQ","$Type":"Form","$Version":"27","AccentColor":"&H00FFFFFF","AppName":"Kecerdasan_Manusia","Title":"intro_AQ","Uuid":"0","$Components":[{"$Name":"Label1","$Type":"Label","$Version":"5","FontBold":"True","FontSize":"18","Text":"Test Tingkat Kecerdasan AQ","Uuid":"234308045"},{"$Name":"Label2","$Type":"Label","$Version":"5","Height":"-2","Width":"-2","Uuid":"-769784444"},{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"3","AlignHorizontal":"3","BackgroundColor":"&H00FFFFFF","Width":"-2","Uuid":"-783325969","$Components":[{"$Name":"Button1","$Type":"Button","$Version":"6","BackgroundColor":"&HFF00FF00","FontBold":"True","FontSize":"18","Width":"100","Text":"Mulai","TextColor":"&HFF0000FF","Uuid":"1202354449"}]}],"Sizing":"Fixed","ShowListsAsJson":"False"}}
+|#

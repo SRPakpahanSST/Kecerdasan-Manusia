@@ -1,0 +1,86 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="rskmOuMT?ffo~iQ+t-ea" x="-408" y="-390">
+    <mutation component_type="Form" is_generic="false" instance_name="Tentang_NKHM" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Tentang_NKHM</field>
+    <statement name="DO">
+      <block type="component_method" id="FZc{pvmE:PA3EiY_(qOj">
+        <mutation component_type="File" method_name="AppendToFile" is_generic="false" instance_name="File1"></mutation>
+        <field name="COMPONENT_SELECTOR">File1</field>
+        <value name="ARG0">
+          <block type="text" id="RDw@5UjuCEP^30J$J29P">
+            <field name="TEXT">Kecerdasan Manusia</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="@/#.cibsN(4=bL}HY,l!">
+            <field name="TEXT">Kecerdasan Manusia.html</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Ic)yl_$FG|iGh7|lQkY[" x="-374" y="-215">
+    <mutation component_type="File" is_generic="false" instance_name="File1" event_name="GotText"></mutation>
+    <field name="COMPONENT_SELECTOR">File1</field>
+    <statement name="DO">
+      <block type="controls_if" id="x:[ste#;M~W;927yMbvF">
+        <value name="IF0">
+          <block type="logic_compare" id="Fen,*21*9mi5h}=LRoQ;">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="$nIIfcj@9N#LB!N7AU(d">
+                <mutation>
+                  <eventparam name="text"></eventparam>
+                </mutation>
+                <field name="VAR">text</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="component_component_block" id="ClGqo?W:8Ttu,B^@!HCA">
+                <mutation component_type="File" instance_name="File1"></mutation>
+                <field name="COMPONENT_SELECTOR">File1</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="component_set_get" id="1-G2*,+Jdwd:71aFQD5.">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="teks_file"></mutation>
+            <field name="COMPONENT_SELECTOR">teks_file</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="text" id="KW62GFx*m/.l~RSEVuB6">
+                <field name="TEXT">Kecrdasan Manusia.html</field>
+              </block>
+            </value>
+            <next>
+              <block type="component_method" id="pb8rnv),ec~ySCqkyeMF">
+                <mutation component_type="File" method_name="ReadFrom" is_generic="false" instance_name="File1"></mutation>
+                <field name="COMPONENT_SELECTOR">File1</field>
+                <value name="ARG0">
+                  <block type="text" id="6WPp;B257bY*F`W96+-5">
+                    <field name="TEXT">Kecerdasan Manusia.html</field>
+                  </block>
+                </value>
+              </block>
+            </next>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="{N%l(=BDV%+zUdjulYXw" x="-410" y="36">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="Qz_8Y%jC0V.J}hL=tKj:">
+        <value name="SCREEN">
+          <block type="text" id="BugYwHigd;!-a,R.tc(n">
+            <field name="TEXT">Screen1</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

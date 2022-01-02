@@ -1,0 +1,408 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="global_declaration" id="cm@)+DYA8G]yUwNg5M.*" x="-701" y="-466">
+    <field name="NAME">list_kunci_jawaban</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="vg=}@l=e=G$hDmT_0fr(">
+        <mutation items="28"></mutation>
+        <value name="ADD0">
+          <block type="text" id="*@ob6]^Bw3T:0i5nm!ap">
+            <field name="TEXT">Agama artinya tidak kacau balau kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="eU@#@{O!Yy1h`=+6BYrR">
+            <field name="TEXT">Agama dan aliran kepercayaan pada bangsa Indonesia: Ada 6 agama: a.       Islam, b.      Kristen katolik, c.       Kristen protestan, d.      Hindu, e.       Budha, f.       Khonghuchu, Dan 1 aliran kepercayaan: percaya kepada Tuhan Yang Maha Esa.  Kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="A*WI#RbWS;6|$vi{t?LY">
+            <field name="TEXT">Dari nabi zaman awal dari Nabi Adam hingga nabi zaman akhir Nabi Yesus Kristus (Isa Almasih) ada genap jumlahnya 24. kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="hw)4Jtg9i,H!qe{?lcVM">
+            <field name="TEXT">Hukum Tuhan yang utama dan terutama adalah mengasihi Tuhan Allah dengan segenap hati dan segenap pikiran dan dengan segenap akal budi serta mengasihi sesama manusia. kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="sJ}(+v%Tj.Z+ZX}D%sQp">
+            <field name="TEXT">Isi kitab suci adalah mengajarkan memperlakukan orang lain seperti memperlakukan diri sendiri. kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="tn((xCN~`Haq5uytjkt?">
+            <field name="TEXT">Pada hari keenam hari penciptaan, Allah menciptakan manusia sesudah menciptakan hewan, ternak dan binatang. Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="uoP6CCW%EAl#_AD}(t,-">
+            <field name="TEXT">Hawa (perempuan) diciptakan Allah adalah dari tulang rusuk Adam (laki-laki) Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="uL+Gx7mS?1b=2t+d=z0y">
+            <field name="TEXT">Adam dan Hawa jatuh kedalam dosa karena mereka terjerat oleh nafsu keinginan hati, lalu iblis datng menggoda mereka, lalu mereka memakan buah terlarang sehingga mereka telah melanggar Perintah Allah. Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id=";?(X0.^OPRn2TTArk+$$">
+            <field name="TEXT">Kunci: a. Setuju</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="p%n:9~boMkIf,eQ.69z?">
+            <field name="TEXT">Kunci: b. Setuju</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="#*c({x}#54FrU8vUj0wC">
+            <field name="TEXT">Orang yang dekat pada sisi Tuhan Allah hanya Tuhan lah yang menentukannya Kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="6uM$E(.hd)#/)b8USjtL">
+            <field name="TEXT">Abraham adalah seorang Nabi yang digelari sebagai pemimpin pertama di muka bumi ini. Kunci: b.</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="ePrqn@U]({dd9ckbx||o">
+            <field name="TEXT">Berzinah adalah perbuatan dosa yang akibatnya terjadi dalam diri orang yang melakukannya. Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="^Tvjq_@uIh%~2ucU1T)Y">
+            <field name="TEXT">Sudah berdosa didalam hatinya bila seseorang pria atau wanita memAndang seseorang wanita/pria lalu ingin memilikinya. kunci: b.</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="U{Le4VePkKQ07O(S._)5">
+            <field name="TEXT">Orang bodoh yang dari Allah lebih besar hikmatnya dari manusia dan orang lemah dari Allah lebih kuat dari manusia. Kunci: b.</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="e9`iZsof~2TiH1?W-W#R">
+            <field name="TEXT">Semua ciptaan Tuhan adalah baik, segala sesuatu dikuduskan oleh Firman Tuhan, doa dan puasa. Kunci: c.</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="Xa_K_+Q9P^8(zu?WxNy5">
+            <field name="TEXT">Hal pertama yang harus dilakukan bila seseorang berbuat kesalahan adalah menegor dan menasehatinya secara 4 mata agar kesalahannya tersebut tidak mendatangkan dosa. Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="WQ@/4=,X*x|{X{=eUShW">
+            <field name="TEXT">Perintah (hukum) Allah yang ke-10 adalah jangan ingin mengingini harta milik orang lain, baik istrinya baik keledainya baik sesuatu harta milik orang lain. Perintah (hukum) Allah yang ke-10 ini berhubungan seri dengan perintah (hukum) Allah yang ke-7 jangan berzinah, yang ke-8 jangan mencuri dan perintah (hukum) yang ke-9 jangan bersaksi dusta terhadap sesama. Dan perintah (hukum) Allah yang ke-10 ini mempunyai hubungan parallel dengan perintah (hukum) Allah yang ke-5 hormatilah orang tuamu, yang ke6 jangan membunuh dan perintah (hukum) Allah yang ke-1 Aku (tuhan Allah) adalah Allah yang cemburu, dan yang ke-2 jangan ada padamu allah lain dihadapanku selain Tuhan Allah, dan yang ke-3 jangan menyebut nama Tuhan Allah dengan sembarangan, dan yang ke-4 kuduskanlah hari Tuhan (Perintah/hukum Allah yang ke-1, ke-2, ke-3 dan ke-4 ini berhubungan seri dengan perintah/hukum Allah yang ke-5 dan yang ke-6). Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="MDUx_FU6k]m)|oC9I/`^">
+            <field name="TEXT">Pada menjelang akhir jaman, manusia tetap melakukan kawin dan mengawinkan kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="z3:,4dJ25h(o,i1;7FxR">
+            <field name="TEXT">Kehidupan selanjutnya setelah hari kiamat adalah adanya langit dan bumi yang baru dan orang mati akan bangkit dahulu dan orang hidup akan terangkat ke angkasa. Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="l`q+;o1v*R:g/TF)Upb:">
+            <field name="TEXT">Rencana hari kiamat tersebut adalah untuk kehidupan yang lebih baik lebih sejahtera bagi seluruh umat manusia yang percaya kepada Tuhan Allah. Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="LEps$Q7RTyFVpkkWOElF">
+            <field name="TEXT">Pencobaan dalam hidup manusia datangnya bukan dari Allah tetapi dari hasil perbuatan ulah perilaku manusia itu sendiri. Tuhan Allah tidak pernah mencobai umat manusia. kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="9*uQMGI`AcPMyTLM4hc{">
+            <field name="TEXT">Monotheis artinya kepahaman/kepercayaan adanya satu Tuhan Kunci; c</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="Yow9BoCC-)Sco4)lStzY">
+            <field name="TEXT">Pengalaman spiritual pada seseorang dapat terjadi karena dorongan dan bimbingan Roh Kudus Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id="TJ$7@x;~*K%K{g)0[^.K">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="uoziKLpG-kR$kr5-t:-@">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="y3`exn3#abFEY1)v8ZdS">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="SLgYC=5vLj]hjO@AWT%j">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="!pa1SPB)?_$?s=JIVJzS" x="-695" y="288">
+    <field name="NAME">index</field>
+    <value name="VALUE">
+      <block type="math_number" id="*r;gj~4f+v}A{e-ho[q6">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+  <block type="component_event" id="QmT$9U}-1aAL^dRY=O*:" x="46" y="286">
+    <mutation component_type="Form" is_generic="false" instance_name="Kunci_Jawaban_SQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Kunci_Jawaban_SQ</field>
+    <statement name="DO">
+      <block type="procedures_callnoreturn" id="g!t=V/u$:9q:eVNLeBNc" inline="false">
+        <mutation name="Jawaban"></mutation>
+        <field name="PROCNAME">Jawaban</field>
+      </block>
+    </statement>
+  </block>
+  <block type="procedures_defnoreturn" id="4c!;Jg5UR(E#2mC1;%xk" x="-690" y="333">
+    <field name="NAME">Jawaban</field>
+    <statement name="STACK">
+      <block type="component_set_get" id="96ejFOYsCv[Ybex%zp9{">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text_join" id="Bi6Kh#I?3rk{}],gv=R~">
+            <mutation items="2"></mutation>
+            <value name="ADD0">
+              <block type="text" id="2ja,jwrv)y9U1GHH,~O8">
+                <field name="TEXT">Jawaban Soal Ke-</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="lexical_variable_get" id="#TkT,p,k(/!Dq)brCb$%">
+                <field name="VAR">global index</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="F:xAR{%qMI9E;m,$XSH0">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label3"></mutation>
+            <field name="COMPONENT_SELECTOR">Label3</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="lists_select_item" id="e6.t%iof]Z1wIh?JIQoB">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="GOely)azb]}DDijemK0b">
+                    <field name="VAR">global list_kunci_jawaban</field>
+                  </block>
+                </value>
+                <value name="NUM">
+                  <block type="lexical_variable_get" id="3bFJLts+pshBs^$*?GUi">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="d)`/(D{r3P)B$NFq$[7+" x="104" y="376">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="component_method" id="Rt?u}+dxB/qb_GG?ij2G">
+        <mutation component_type="Notifier" method_name="ShowChooseDialog" is_generic="false" instance_name="Notifier1"></mutation>
+        <field name="COMPONENT_SELECTOR">Notifier1</field>
+        <value name="ARG0">
+          <block type="text" id="BEQaEU*yPBl%5@2Vu2fV">
+            <field name="TEXT">Keluar Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="/4h7[Wb0^5cDb(Z[.1n*">
+            <field name="TEXT">Anda Yakin Keluar Dari Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="V;@=G#kCh{YdY#RMN|tN">
+            <field name="TEXT">EXIT</field>
+          </block>
+        </value>
+        <value name="ARG3">
+          <block type="text" id="-{JrvYYc[d8Sal}Z6|-:">
+            <field name="TEXT">STAY</field>
+          </block>
+        </value>
+        <value name="ARG4">
+          <block type="logic_boolean" id="xZ,[;I`U/,}}[R1(BcE=">
+            <field name="BOOL">FALSE</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="b5Rz^f(U~EE2C;(2?zG{" x="-796" y="501">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_if" id="6L63z3-4X.ch]+JQ*;=v">
+        <value name="IF0">
+          <block type="lists_select_item" id="=J7r{(?:*.9+HyI(}-ev">
+            <value name="LIST">
+              <block type="lexical_variable_get" id="ipeGxXn7E#0~v0+^Xkr6">
+                <field name="VAR">global list_kunci_jawaban</field>
+              </block>
+            </value>
+            <value name="NUM">
+              <block type="lexical_variable_get" id="6C|CxA%WXvkh{{xy/x%_">
+                <field name="VAR">global index</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="component_set_get" id=",CZj-cK:D}.z!Fah7n_a">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label3"></mutation>
+            <field name="COMPONENT_SELECTOR">Label3</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="logic_compare" id="VDjc|1v_al@Ry2Sh]6+t">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lists_length" id="Nw4dC/!-UdYQN@Q}jWc-">
+                    <value name="LIST">
+                      <block type="lexical_variable_get" id="GAlue9(a$:`%LDpl]z7)">
+                        <field name="VAR">global list_kunci_jawaban</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="ucAYF^7Lm0w%PLn6kbdk">
+                    <field name="NUM">3</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="u~3PbhjSeY%Tv*ULt!g1">
+            <mutation else="1"></mutation>
+            <value name="IF0">
+              <block type="logic_compare" id="Jht.w9Z13s_jMc]dLsiG">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="QeSRRK5IvADs0iihf.``">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="3o4Kvk=VvO~AAArJ/T]N">
+                    <field name="NUM">28</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="component_set_get" id="Z*CBi^.9WWRUFG!kz_GE">
+                <mutation component_type="Button" set_or_get="set" property_name="Visible" is_generic="false" instance_name="Button2"></mutation>
+                <field name="COMPONENT_SELECTOR">Button2</field>
+                <field name="PROP">Visible</field>
+                <value name="VALUE">
+                  <block type="logic_boolean" id="Do{WK*ovKrPpy@7q26ya">
+                    <field name="BOOL">TRUE</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <statement name="ELSE">
+              <block type="lexical_variable_set" id="ts4tt=;=lm8TJ-S{I04i">
+                <field name="VAR">global index</field>
+                <value name="VALUE">
+                  <block type="math_add" id="49;7*_bfr!,7FTMlq;SM">
+                    <mutation items="2"></mutation>
+                    <value name="NUM0">
+                      <block type="lexical_variable_get" id="-5IstfrIX^u?_hjjL1u?">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="NUM1">
+                      <block type="math_number" id="HEQX/vN5y)6mCpQRUg+b">
+                        <field name="NUM">1</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="procedures_callnoreturn" id="FXHT$!!0d,+9+4@_WY-i" inline="false">
+                <mutation name="Jawaban"></mutation>
+                <field name="PROCNAME">Jawaban</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="G~%Z(se^oaSKPq05v!Sk" x="169" y="594">
+    <mutation component_type="Notifier" is_generic="false" instance_name="Notifier1" event_name="AfterChoosing"></mutation>
+    <field name="COMPONENT_SELECTOR">Notifier1</field>
+    <statement name="DO">
+      <block type="controls_if" id="`}_{X+Jw6$L8yDVjhK6#">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="F=Q-TqqkzFx~zf0I^1R(">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="4eb|~PCNZr;._Lv1xy|m">
+                <mutation>
+                  <eventparam name="choice"></eventparam>
+                </mutation>
+                <field name="VAR">choice</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="b}_g0@uF77Vo/yvh`56c">
+                <field name="TEXT">EXIT</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_closeApplication" id="7)H7])XvCzKsAB;*50hb"></block>
+        </statement>
+        <statement name="ELSE">
+          <block type="controls_openAnotherScreen" id="mbs?ZIt74|Qu+BQD)yQ4">
+            <value name="SCREEN">
+              <block type="text" id="1qLjZ3.Mf8Q1;7;+ac6-">
+                <field name="TEXT">Test_SQ</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="fsvg`{S,au0E1Fn`C?Qg" x="105" y="788">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="X;e^p^.awj;m^Zi=hgU[">
+        <value name="SCREEN">
+          <block type="text" id="8_+#mX5_s4h*n`#oYoUT">
+            <field name="TEXT">intro_AQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

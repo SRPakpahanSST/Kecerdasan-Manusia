@@ -1,0 +1,428 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="global_declaration" id="_^}*=3vCzNHKp8hv7/bY" x="-641" y="-1524">
+    <field name="NAME">list_kunci_jawaban</field>
+    <value name="VALUE">
+      <block type="lists_create_with" id="KGNftP554is=OlZS1{uT">
+        <mutation items="32"></mutation>
+        <value name="ADD0">
+          <block type="text" id="Z5h]i{KdR0Vme1#k(ZNy">
+            <field name="TEXT">Diketahui A=1,2,3,4,5 angka terakhirnya adalah 5        5 merupakan angka pertama pada susunan angka yang baru tetapi tidak dipakai        Susunan angka yang baru adalah 5,6,7,8,9 menjadi 6,7,8,9        Kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD1">
+          <block type="text" id="PhXeETrlDEqmI?S5vzZD">
+            <field name="TEXT">Diketahui susunan angka 4,2,3,1      Angka pertama susunan yang baru = angka pertama susunan lama +1                                                              = 4+1 = 5       Maka susunan angka yang baru adalah 5,6,7,8       Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD2">
+          <block type="text" id="A_Ss!]5,A9s=8gM0s}$B">
+            <field name="TEXT">Diketahui Notai musik 1 3 2 4 Notasi musik yang baru yang nadanya lebih tinggi dari dari notasi musik   yang diberikan, sesuai dengan urutan nadanya adalah nada nada 5 7 6 1’        Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD3">
+          <block type="text" id="VH/.#~R!T7!hcGjgWxHW">
+            <field name="TEXT">Diketahui notasi musik 1 2 3 4 5       Nada pertama notasi yang baru = nada terakhir notasi yang diberikan                                                          = 5       Sesuai dengan urutan nadanya adalah nada 5 7 6 1’ Kunci: a</field>
+          </block>
+        </value>
+        <value name="ADD4">
+          <block type="text" id="8416aCqF:LAM_y1ki+KZ">
+            <field name="TEXT">Diketahui grup I = 8, 7, 6, 5        Angka pertama pada grup II = angka terakhir pada grup I = 5        Maka susunan angka pada grup II = 5, 4, 3, 2         Maka Angka pertama pada grup III = angka terakhir pada grup II = 2          Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD5">
+          <block type="text" id="jZLVs;MBrrRyL@JO[p/]">
+            <field name="TEXT">Diketahui A = 5, 6, 8, 7, 9  dan B = 1, 2, 4, 3, 5 Irisan dari A dan B = A ∩ B = 5 yang satu akli ditulis Maka susunan angka grup B kemudian diikuti grup A adalah 1, 2, 4, 3, 5, 6, 8, 7, 9 Kunci: a.</field>
+          </block>
+        </value>
+        <value name="ADD6">
+          <block type="text" id="oUQ}Lf7n?FU@uCik0Clh">
+            <field name="TEXT">Bentuk bangun   bila diputar 2700  kekanan  akan menjadi bentuk         Kunci : c</field>
+          </block>
+        </value>
+        <value name="ADD7">
+          <block type="text" id="m:8?TgVf!8#knRZTvGMB">
+            <field name="TEXT">Diketahui susunan angka 1, 2, 3, 4 ada sebanyak 4 angka  Susunan sampai tingkat kelima adalah sampai 4*5 = 20 Maka 4 angka yang keenam berikutnya adalah: 21, 22, 23, 24      Kunci: c </field>
+          </block>
+        </value>
+        <value name="ADD8">
+          <block type="text" id="a81Ya73wg1s@FRU,Y5X!">
+            <field name="TEXT">Diketahui angka 5 ∞ 3, 6, 9, 12, 15 merupakan 5 angka kelipatan 3 Maka angka 4 ∞ angka kelipatan 2 yang angka pertamanya adalah 2      Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD9">
+          <block type="text" id="u[Uog5.A1G$Khxmaw|Ix">
+            <field name="TEXT">Diketahui:           ↑                           ↓ 5	2 4	3 3	4        ↑  maka angka terakhir disusunan kedua biladipergunakan adalah 2.       Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD10">
+          <block type="text" id="{uR~)T(;Y.QLJ{|oBF:/">
+            <field name="TEXT">Diketahui: grup I         ↑                ↑ 8 7 6                                       Dan grup II   ↓                ↓ 5 6 7    Maka angka pertama pada grup II bila digunakan adalah 7 Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD11">
+          <block type="text" id="=n`*TD0+.a4D[Xj~WWdy">
+            <field name="TEXT">Diketahui angka 4 ∞ 3, 6, 9, 12, 15 Maka angka 3 ∞ 2, 4, 6, 8, 10 yang urutan angka ketiganya adalah 6.     Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD12">
+          <block type="text" id="22]5!t2w6uhSY{5VsAFC">
+            <field name="TEXT">Diketahui grup I:                ↑                                                          ↑ 4				 5				 6				 7				 8				 9				 15				                                               dan grup II:                     ↓                                                                                 ↓ 4	11	18		 5	12	19		 6	13	20		 7	14	21		 8	15	22		 9	16	23		 10	17			   Angka pada bari 2 kolom 3 di grup II adalah 23 sesuai dengan baris dan kolom pada grup I      Kunci: a</field>
+          </block>
+        </value>
+        <value name="ADD13">
+          <block type="text" id="O+8ez1C!5Bv5FV)%a$cp">
+            <field name="TEXT">bangun   bila dibalikkan keatas akan menjadi        kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD14">
+          <block type="text" id="k-TZdXW8{(|wiE]w.j#O">
+            <field name="TEXT">Diketahui susunan angka: 1, 2, 3, 4, 5 Angka pertama mendahului angka ke-3 susunannya adalah: 1, 3, 4, 5, 6 yang urutannya menaik       Kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD15">
+          <block type="text" id="9G[Z.h+)9q_r~?p9J#en">
+            <field name="TEXT">Diketahui susunan angka: 2, 3, 4, 5, dan 6       susunan angka yang baru dengan angka pertama = urutan angka kedua yang diberikan = 3 adalah: 3, 4, 5, 6, 7 maka angka keduanya adalah 4      kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD16">
+          <block type="text" id="-e7An1XW|~`kyvshTjKV">
+            <field name="TEXT">Diketahui susunan angka 1, 2,3, 4, 5 dan 6              ↓                           ↓ 1	4 2	5 3	6       Angka pada baris 1 kolom 2 bila digunakan adalah 6 (urutan baris dan kolom dari bawah ke atas)      : a</field>
+          </block>
+        </value>
+        <value name="ADD17">
+          <block type="text" id="cS~^g7WiR-.`4D/KO0u;">
+            <field name="TEXT">Diketahui grup I:                  ↓                           ↓ 1	4 2	5 3	6     Dan grup II:        ↓       ↓ 5	8 6	9 7	10      Angka di baris 3 kolom 2 adalah 8      Kunci: a</field>
+          </block>
+        </value>
+        <value name="ADD18">
+          <block type="text" id="ww#O4|Kyvl9M;#+_wVB|">
+            <field name="TEXT">Diketahui susunan angka: 3, 2, 6, 5, 5 angka kedua susunan angka yang baru &gt; 2 dan &lt; 6 yaitu  kemungkinannya adalah angka 3, 4 atau 5 yang bisa memungkinkan adalah: 3, 3, 6, 5, 5     : c</field>
+          </block>
+        </value>
+        <value name="ADD19">
+          <block type="text" id="qJKXhlY@VNga%9n]#4gf">
+            <field name="TEXT">Diketahui: susunan angka 1, 2, 4, 5 dan 5 Urutan angka ke-4 dinaikkan 3 angka = 5 + 3 = 8 Susunan angka berikutnya yang I adalah: 1, 2, 4, 8, 5                                            Yang ke II adalah: 1, 2, 4, 11, 5                                             Yang ke III adalah: 1, 2, 4, 14, 5      Kunci: d</field>
+          </block>
+        </value>
+        <value name="ADD20">
+          <block type="text" id="1/UdunG!.c)4.E]#LTfm">
+            <field name="TEXT">Diketahui susunan angka: 1, 2, 3 dan 4 Angka susunan I adalah: 5, 6, 7, 8             Susunan II adalah: 9, 10, 11, 12             Susunan III adalah: 13, 14, 15, 16 Maka angka urutan kedua pada susunan III tersebut adalah: 14      Kunci: a</field>
+          </block>
+        </value>
+        <value name="ADD21">
+          <block type="text" id="UT:%,}Z]nBehP{jZ120/">
+            <field name="TEXT">Diketahui susunan angka: 1, 2, 3, 4, 5, 6, 7, 8 urutan angka pertama menempati urutan angka ketiga berarti angka 3 menjadi 1 (berkurang 2 angka) sehingga angka terakhir 8 berkurang juga 2 angka     : d</field>
+          </block>
+        </value>
+        <value name="ADD22">
+          <block type="text" id="Pl=7p!^(kRjXV/UYO]Mv">
+            <field name="TEXT">Diketahui susunan angka; 2, 2, 6, 3, 5 dan 7 Angka susunan berikutnya adalah: …, 3, …, 6, …, … Susunan I angka yang baru yang urutan angka keduanya naik 1 angka dari angka 2 = 3 Susunan II angka yang baru yang urutan angka keduanya naik 1 angka dari angka 3 = 4 Susunan III angka yang baru yang urutan angka keduanya naik 1 angka dari angka 4 = 5      Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD23">
+          <block type="text" id="u=9`Q,SILy_Ur]aBh;W4">
+            <field name="TEXT">Diketahui:           1            2                    hubungan seri                                       Maka total penjumlahan hubungan seri adalah: 1 + 2 =3 Adalah lebih besar dari nilai masing masing angka yang diberikan.     Kunci: a</field>
+          </block>
+        </value>
+        <value name="ADD24">
+          <block type="text" id=":(INw4E0O}:Ei:@WoV.E">
+            <field name="TEXT">Diketahui: Hubungan paralel                 1                     2 Maka total penjumlahan hubungan parallel = (1 * 2) / (1 + 2) = 2/3 Adalah lebih kecil dari masing masing nilai angka yang diberikan.    Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD25">
+          <block type="text" id="J:WP2T;u6+#L70!t%3;s">
+            <field name="TEXT">Diketahui 3 angka disusun parallel:                                          1                          3  Total penjumlahan parallelnya adalah : 1/x =1/1 + ½ + 1/3 X= (1 * 2 * 3) / {(2*3) + (1*3) + (1*2)}   =6/ 11 Bila elemen/angka 3 dihilangkan maka x = (1*2) / (1+2) = 2/3 Dimana 2/3 &gt; 6/11 maka totalnya menjadi bertambah      Kunci: b</field>
+          </block>
+        </value>
+        <value name="ADD26">
+          <block type="text" id="eAsD0(`~Z41EZT!MZJ#5">
+            <field name="TEXT">Diketahui:             4           2                            3           1   +            =                            6                 4                                     x        =   X = 6 + 4 = 10        Kunci: c</field>
+          </block>
+        </value>
+        <value name="ADD27">
+          <block type="text" id="3sx1u3c^#^*v%e1.sYz,">
+            <field name="TEXT">Dari soal nomor 27                                           4                               2                     3                              1                 6                  4                           x                                               X = (6 * 4) / (6+4) = 24/10      Kunci: d.</field>
+          </block>
+        </value>
+        <value name="ADD28">
+          <block type="text" id="IGf^iuj@J6K:h//[k[{8">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD29">
+          <block type="text" id="~{;j*d$V4:qp%$a%E!Rx">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD30">
+          <block type="text" id="ZCFRC[_GDHmNVyb$9RBE">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+        <value name="ADD31">
+          <block type="text" id="@-3z/:FX1CB)(9-F!TEp">
+            <field name="TEXT"></field>
+          </block>
+        </value>
+      </block>
+    </value>
+  </block>
+  <block type="global_declaration" id="8r^jg+X!a~Lw`oSgXkxH" x="-641" y="-648">
+    <field name="NAME">index</field>
+    <value name="VALUE">
+      <block type="math_number" id="dK*e.-g6tQ~adTz+@#_f">
+        <field name="NUM">1</field>
+      </block>
+    </value>
+  </block>
+  <block type="procedures_defnoreturn" id="NI@Tw`w79OB`x8pY/sT^" x="-643" y="-601">
+    <field name="NAME">Jawaban</field>
+    <statement name="STACK">
+      <block type="component_set_get" id="68ThN:c,;E:x@2Jt+}to">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label2"></mutation>
+        <field name="COMPONENT_SELECTOR">Label2</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text_join" id="WanPHT)]8q,%au?ZbEr5">
+            <mutation items="2"></mutation>
+            <value name="ADD0">
+              <block type="text" id="?t][yme;[7(#,`{3MHhl">
+                <field name="TEXT">Kunci Jawaban Soal Ke-</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="lexical_variable_get" id="aM]buQ=wZTeYUxJMkBJ)">
+                <field name="VAR">global index</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="8r-zhro4_h-61WPQ;vRF">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Kunci_Jawaban"></mutation>
+            <field name="COMPONENT_SELECTOR">Kunci_Jawaban</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="lists_select_item" id="fj[o%!yNxf[KH8uw#p0}">
+                <value name="LIST">
+                  <block type="lexical_variable_get" id="KD.|IBU*.hu6)!!oKWzY">
+                    <field name="VAR">global list_kunci_jawaban</field>
+                  </block>
+                </value>
+                <value name="NUM">
+                  <block type="lexical_variable_get" id="Ao_b$S4^WQAF5q*:LSq_">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="vG!95|axlXu(HX5XJ=-C" x="220" y="-572">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="component_method" id="eSR-k6(~9DP{09_t:!1A">
+        <mutation component_type="Notifier" method_name="ShowChooseDialog" is_generic="false" instance_name="Notifier1"></mutation>
+        <field name="COMPONENT_SELECTOR">Notifier1</field>
+        <value name="ARG0">
+          <block type="text" id="voWhnuJDuC%_Efg1Vts-">
+            <field name="TEXT">Keluar Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG1">
+          <block type="text" id="V}Qjz8|z,sVFCgmrXn1V">
+            <field name="TEXT">Anda Yakin Keluar Applikasi?</field>
+          </block>
+        </value>
+        <value name="ARG2">
+          <block type="text" id="a#(Um)jesdGCHD31ye8Z">
+            <field name="TEXT">EXIT</field>
+          </block>
+        </value>
+        <value name="ARG3">
+          <block type="text" id="NfL=^/|DiEKRBdHIpy$4">
+            <field name="TEXT">STAY</field>
+          </block>
+        </value>
+        <value name="ARG4">
+          <block type="logic_false" id="|Br8GY}qhHpml;?{Ul9,">
+            <field name="BOOL">FALSE</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="VO*T!Tx~4HG+[{~EhTrv" x="-648" y="-431">
+    <mutation component_type="Form" is_generic="false" instance_name="Kunci_Jawaban_IQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Kunci_Jawaban_IQ</field>
+    <statement name="DO">
+      <block type="procedures_callnoreturn" id="Zcjd2!KVGdyl*R$jZO4j" inline="false">
+        <mutation name="Jawaban"></mutation>
+        <field name="PROCNAME">Jawaban</field>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="#L9u$ax!0;Hhk{pGE]}f" x="258" y="-360">
+    <mutation component_type="Notifier" is_generic="false" instance_name="Notifier1" event_name="AfterChoosing"></mutation>
+    <field name="COMPONENT_SELECTOR">Notifier1</field>
+    <statement name="DO">
+      <block type="controls_if" id="TJBpOwHbLMSe0ZCdJL^a">
+        <mutation else="1"></mutation>
+        <value name="IF0">
+          <block type="logic_compare" id="$:~r^]9.N!Sc0xQ.:i]w">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="lexical_variable_get" id="`2$C3_,.t_S[O.y5pSh:">
+                <mutation>
+                  <eventparam name="choice"></eventparam>
+                </mutation>
+                <field name="VAR">choice</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="text" id="s^eUZ%=fc3NK33MS=|zf">
+                <field name="TEXT">EXIT</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_closeApplication" id="|?1+mW8)93_6;7*+-)l~"></block>
+        </statement>
+        <statement name="ELSE">
+          <block type="controls_openAnotherScreen" id="]gH5AVV/(8_pKG5@NZqX">
+            <value name="SCREEN">
+              <block type="text" id=".%oIS|L#|/U-2E#=hpP8">
+                <field name="TEXT">Screen2</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="l1GilEeWT}GKUGZ,hKBb" x="-605" y="-301">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_if" id="m6P@bS,r!?@4hr~TWP=}">
+        <value name="IF0">
+          <block type="lists_select_item" id="]=4pe|Fk:MTwNITHYlXt">
+            <value name="LIST">
+              <block type="lexical_variable_get" id=")Qn$iu=DC@5KZ8W]l_;w">
+                <field name="VAR">global list_kunci_jawaban</field>
+              </block>
+            </value>
+            <value name="NUM">
+              <block type="lexical_variable_get" id=";/-n8r3|-xd6*d~:Ej2[">
+                <field name="VAR">global index</field>
+              </block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="component_set_get" id="]-eO4c;bK1xSl#;hFS7_">
+            <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Kunci_Jawaban"></mutation>
+            <field name="COMPONENT_SELECTOR">Kunci_Jawaban</field>
+            <field name="PROP">Text</field>
+            <value name="VALUE">
+              <block type="logic_compare" id="l$f~1vAK7rM6iXPkG23%">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lists_length" id="Hui6]i1kWg|l[2.tn0`*">
+                    <value name="LIST">
+                      <block type="lexical_variable_get" id="d^]W0BxY$)Rm]%hp-vr(">
+                        <field name="VAR">global list_kunci_jawaban</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="PN!FT77y5!J?%)XeQ{pN">
+                    <field name="NUM">32</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+          </block>
+        </statement>
+        <next>
+          <block type="controls_if" id="nCI(*!W5|be4$K_AbHe$">
+            <mutation else="1"></mutation>
+            <value name="IF0">
+              <block type="logic_compare" id="_:A235{5;t2v@ob:m=7H">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="KZJD#A6ny%!$L3#-4YG[">
+                    <field name="VAR">global index</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="math_number" id="[.{L#B*59?tc4~z`w-rL">
+                    <field name="NUM">32</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <statement name="DO0">
+              <block type="component_set_get" id="xx_T76*GJr,oh@BNX+^W">
+                <mutation component_type="Button" set_or_get="set" property_name="Visible" is_generic="false" instance_name="Button2"></mutation>
+                <field name="COMPONENT_SELECTOR">Button2</field>
+                <field name="PROP">Visible</field>
+                <value name="VALUE">
+                  <block type="logic_boolean" id="v%BXf.Xf^Qt=V`k`c0x9">
+                    <field name="BOOL">TRUE</field>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <statement name="ELSE">
+              <block type="lexical_variable_set" id="=`FAiE1q3F-uaj{c!q:5">
+                <field name="VAR">global index</field>
+                <value name="VALUE">
+                  <block type="math_add" id="~X`,OXb8,L/5jy4iQpY|">
+                    <mutation items="2"></mutation>
+                    <value name="NUM0">
+                      <block type="lexical_variable_get" id="VSp?=)eU3mt*|)kj-(O9">
+                        <field name="VAR">global index</field>
+                      </block>
+                    </value>
+                    <value name="NUM1">
+                      <block type="math_number" id="+lSzPf84ruo(A1N~AHnJ">
+                        <field name="NUM">1</field>
+                      </block>
+                    </value>
+                  </block>
+                </value>
+              </block>
+            </statement>
+            <next>
+              <block type="procedures_callnoreturn" id="|vM,J+f/6.utK#xq?-*]" inline="false">
+                <mutation name="Jawaban"></mutation>
+                <field name="PROCNAME">Jawaban</field>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="Zvy[}Q*):0oHmj{t1p+9" x="258" y="-167">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="LV.TGIn^5C+}[OJQ_QXf">
+        <value name="SCREEN">
+          <block type="text" id="2xz0|caC|P5|6mo+qp$a">
+            <field name="TEXT">intro_EQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>

@@ -1,0 +1,165 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="A5}|ICmG+2(t;IvY9X%!" x="-596" y="-372">
+    <mutation component_type="Form" is_generic="false" instance_name="Score_SQ" event_name="Initialize"></mutation>
+    <field name="COMPONENT_SELECTOR">Score_SQ</field>
+    <statement name="DO">
+      <block type="component_set_get" id="iBxq^U;Va[SwR#CG+sN,">
+        <mutation component_type="Label" set_or_get="set" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+        <field name="COMPONENT_SELECTOR">Label1</field>
+        <field name="PROP">Text</field>
+        <value name="VALUE">
+          <block type="text_join" id="M[$+WviZQBS-J/G1$sMF">
+            <mutation items="2"></mutation>
+            <value name="ADD0">
+              <block type="text" id="Dg`T8MOulO3z$Q52~(-P">
+                <field name="TEXT">Nilai Score SQ Anda</field>
+              </block>
+            </value>
+            <value name="ADD1">
+              <block type="controls_getStartValue" id="Gb-RBL}r|4zHWoE0FDPI"></block>
+            </value>
+          </block>
+        </value>
+        <next>
+          <block type="lexical_variable_set" id="v[KjX]#KpVNH`6qrP?eF">
+            <field name="VAR">global name</field>
+            <value name="VALUE">
+              <block type="logic_compare" id=",a]M/10vzbv*]rgp4d$)">
+                <field name="OP">EQ</field>
+                <value name="A">
+                  <block type="lexical_variable_get" id="v#Mk~D/U{t9}g{bckb6]">
+                    <field name="VAR">global name</field>
+                  </block>
+                </value>
+                <value name="B">
+                  <block type="component_set_get" id="(smXKHBueG,y!Bg4Q0*z">
+                    <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+                    <field name="COMPONENT_SELECTOR">Label1</field>
+                    <field name="PROP">Text</field>
+                  </block>
+                </value>
+              </block>
+            </value>
+            <next>
+              <block type="local_declaration_statement" id="K#~fvn=,0*C;R~:[7C/M">
+                <mutation>
+                  <localname name="SQ"></localname>
+                </mutation>
+                <field name="VAR0">SQ</field>
+                <value name="DECL0">
+                  <block type="controls_getStartValue" id="#?6v9x^+o8Y~ny5vM_]V"></block>
+                </value>
+                <statement name="STACK">
+                  <block type="controls_openAnotherScreenWithStartValue" id="zv*q30cKzLK-Wu`5:$F7">
+                    <value name="SCREENNAME">
+                      <block type="text" id="~PL!lgA^A2EVh8Yk6l0E">
+                        <field name="TEXT">Tabel_NKHM</field>
+                      </block>
+                    </value>
+                    <value name="STARTVALUE">
+                      <block type="component_set_get" id="3!Va4{Lj2LZv$@l.Y|X#">
+                        <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+                        <field name="COMPONENT_SELECTOR">Label1</field>
+                        <field name="PROP">Text</field>
+                      </block>
+                    </value>
+                  </block>
+                </statement>
+                <next>
+                  <block type="procedures_callnoreturn" id="i+,3x-:X`KXa?A4BJ95J" inline="false">
+                    <mutation name="Score_SQ_Anda"></mutation>
+                    <field name="PROCNAME">Score_SQ_Anda</field>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <block type="global_declaration" id=",ibv|+9n]Xvvn4!/NIog" x="-595" y="-114">
+    <field name="NAME">name</field>
+    <value name="VALUE">
+      <block type="controls_getStartValue" id="#;jZeh2I,iIHTLD8:YYZ"></block>
+    </value>
+  </block>
+  <block type="component_event" id="N)dv$s|Z%jb*6/wr.d^t" x="-594" y="-74">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="F{gJ#%|M|EnC?RB,r[A1">
+        <value name="SCREEN">
+          <block type="text" id="axPE;?Kq@/KMj)?6W++2">
+            <field name="TEXT">Kunci_Jawaban_SQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="YNKuTJy38-g{J5b23Jpz" x="-591" y="1">
+    <mutation component_type="Button" is_generic="false" instance_name="Button2" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button2</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="^xCFZB2q5+=d%AnThF}-">
+        <value name="SCREEN">
+          <block type="text" id="SE%mqA~[8xV[NRB|NR9]">
+            <field name="TEXT">Test_SQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="component_event" id="O1lVDlGIN334#n5OQfq@" x="-589" y="75">
+    <mutation component_type="Button" is_generic="false" instance_name="Button3" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button3</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="8q0*Bwy7V8Ffg6|u$+cI">
+        <value name="SCREEN">
+          <block type="text" id="D;]m0%DNlibb.vD(r6oV">
+            <field name="TEXT">Test_AQ</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+  <block type="procedures_defnoreturn" id="4V$qM|+N?3S3u(rPdhWh" x="-97" y="79">
+    <field name="NAME">Score_SQ_Anda</field>
+    <statement name="STACK">
+      <block type="controls_if" id="aDL.`rw*H?3??$EfZ{yd">
+        <value name="IF0">
+          <block type="logic_compare" id="MBXl0`%}6J@6ot7XF+:.">
+            <field name="OP">EQ</field>
+            <value name="A">
+              <block type="component_set_get" id="@,n``+SJnk;L${q0Bqk3">
+                <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+                <field name="COMPONENT_SELECTOR">Label1</field>
+                <field name="PROP">Text</field>
+              </block>
+            </value>
+            <value name="B">
+              <block type="controls_getStartValue" id="~:^2!`TO}nS}mtE|q|!L"></block>
+            </value>
+          </block>
+        </value>
+        <statement name="DO0">
+          <block type="controls_openAnotherScreenWithStartValue" id="+~4iMIEf0LHlbd30Ch).">
+            <value name="SCREENNAME">
+              <block type="text" id="E25V@UI(E!RYbBQ;M#K~">
+                <field name="TEXT">Tabel_NKHM</field>
+              </block>
+            </value>
+            <value name="STARTVALUE">
+              <block type="component_set_get" id="L.E^5W#]S||d@q{uPGjx">
+                <mutation component_type="Label" set_or_get="get" property_name="Text" is_generic="false" instance_name="Label1"></mutation>
+                <field name="COMPONENT_SELECTOR">Label1</field>
+                <field name="PROP">Text</field>
+              </block>
+            </value>
+          </block>
+        </statement>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="208" language-version="33"></yacodeblocks>
+</xml>
